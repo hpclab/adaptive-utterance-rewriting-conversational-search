@@ -2,4 +2,4 @@
 
 #### Authors: Ida Mele, Cristina Ioana Muntean, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Ophir Frieder
 
-The paper is under revision. The code will be released upon acceptance.
+Under revision. The code will be released upon acceptance of the paper.
