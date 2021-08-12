@@ -2,4 +2,4 @@
 
 #### Authors: Ida Mele, Cristina Ioana Muntean, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Ophir Frieder
 
-Under revision. The code will be released upon acceptance of the paper.
+Code will be released in September 2021.
