@@ -1,6 +1,6 @@
-### This is the official source code repository of the paper "Adaptive Utterance Rewriting for Conversational Search".
+## This is the official source code repository of the paper: Mele et al., Adaptive Utterance Rewriting for Conversational Search, IP&M, 2021.
 
-#### Authors: Ida Mele, Cristina Ioana Muntean, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Ophir Frieder.
+### Authors: Ida Mele, Cristina Ioana Muntean, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Ophir Frieder.
 
 ## Data
 - Datasets: CAsT 2019 dataset divided into training and test sets. More details in the [Dataset README.md](./data/datasets/README.md) file.
