@@ -1,0 +1,13 @@
+spacy~=2.2.4
+SmartPipeline~=0.2.0
+pandas~=0.25.0
+neuralcoref~=4.0
+allennlp~=0.9.0
+sentence-transformers
+tagme~=0.1.3
+torch~=1.8.1
+transformers~=4.5.1
+scipy~=1.3.1
+lightgbm~=2.2.3
+scikit-learn~=0.24.2
+en_core_web_sm==2.2.5

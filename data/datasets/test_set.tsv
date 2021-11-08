@@ -1,0 +1,194 @@
+31_1	What is throat cancer?	SE
+31_2	Is it treatable?	FT
+31_3	Tell me about lung cancer.	SE
+31_4	What are its symptoms?	PT
+31_5	Can it spread to the throat?	PT
+31_6	What causes throat cancer?	SE
+31_7	What is the first sign of it?	PT
+31_8	Is it the same as esophageal cancer?	PT
+31_9	What's the difference in their symptoms?	PT
+32_1	What are the different types of sharks?	SE
+32_2	Are sharks endangered?  If so, which species?	SE
+32_3	Tell me more about tiger sharks.	SE
+32_4	What is the largest ever to have lived on Earth?	FT
+32_5	What's the biggest ever caught?	FT
+32_6	What about for great whites?	SE
+32_7	Tell me about makos.	SE
+32_8	What are their adaptations?	PT
+32_9	Where do they live?	PT
+32_10	What do they eat?	PT
+32_11	How do they compare with tigers for being dangerous?	PT
+33_1	Tell me about the Neverending Story film.	SE
+33_2	What is it about?	FT
+33_3	How was it received?	FT
+33_4	Did it win any awards?	FT
+33_5	Was it a book first?	FT
+33_6	Who was the author and when what it published?	PT
+33_7	What are the main themes?	FT
+33_8	Who are the main characters?	FT
+33_9	What are the differences between the book and movies?	FT
+33_10	Did the horse Artax really die?	SE
+34_1	Tell me about the Bronze Age collapse.	SE
+34_2	What is the evidence for it?	FT
+34_3	What are some of the possible causes?	FT
+34_4	Who were the Sea Peoples?	SE
+34_5	What was their role in it?	PT
+34_6	What other factors led to a breakdown of trade?	FT
+34_7	What about environmental factors?	FT
+34_8	What empires survived?	FT
+34_9	What came after it?	FT
+37_1	What was the Stanford Experiment?	SE
+37_2	What did it show?	FT
+37_3	Tell me about the author of the experiment.	FT
+37_4	Was it ethical?	FT
+37_5	What are other similar experiments?	FT
+37_6	What happened in the Milgram experiment?	SE
+37_7	Why was it important?	PT
+37_8	What were the similarities and differences between the studies?	PT
+37_9	What about the BBC experiment?	SE
+37_10	What are the key findings?	PT
+37_11	How did the results differ?	PT
+37_12	Why was it ended?	PT
+40_1	What are the origins of popular music?	SE
+40_2	What are its characteristics?	FT
+40_3	What technological developments enabled it?	FT
+40_4	When and why did people start taking pop seriously?	SE
+40_5	How has it been integrated into music education?	PT
+40_6	Describe some of the influential pop bands.	SE
+40_7	What makes a song pop punk?	SE
+40_8	What is the difference between it and emo?	PT
+40_9	How did Britpop change music?	SE
+40_10	What are its roots and what influenced it?	PT
+49_1	How was Netflix started?	SE
+49_2	How did it originally work?	FT
+49_3	What is its relationship with Blockbuster?	FT
+49_4	When did Netflix shift from DVDs to a streaming service?	SE
+49_5	What are its other competitors?	FT
+49_6	How does it compare to Amazon Prime Video?	FT
+49_7	Describe it’s subscriber growth over time.	FT
+49_8	How has it changed the way TV is watched?	FT
+49_9	How has it impacted society?	FT
+49_10	How about dating and relationships?	FT
+50_1	What was the first artificial satellite?	SE
+50_2	What are the types of orbits?	FT
+50_3	What are the important classes of satellite?	FT
+50_4	How do navigation systems work?	FT
+50_5	What is the Galileo system and why is it important?	FT
+50_6	Why did it create tension with the US?	PT
+50_7	What are Cubesats?	SE
+50_8	What are their advantages?	PT
+50_9	What are they used for?	PT
+50_10	What is their future?	PT
+54_1	What is worth seeing in Washington D.C.?	SE
+54_2	Which Smithsonian museums are the most popular?	SE
+54_3	Why is the National Air and Space Museum important?	SE
+54_4	Is the Spy Museum free?	SE
+54_5	What is there to do in DC after the museums close?	FT
+54_6	What is the best time to visit the reflecting pools?	FT
+54_7	Are there any famous foods?	FT
+54_8	What is a DC half smoke?	FT
+54_9	Tell me about its history.	FT
+56_1	What is Darwin’s theory in a nutshell?	SE
+56_2	How was it developed?	FT
+56_3	How do sexual and asexual reproduction affect it?	FT
+56_4	How can fossils be used to understand it?	FT
+56_5	What is modern evidence for it?	FT
+56_6	What is the impact on modern biology?	FT
+56_7	Compare and contrast microevolution and macroevolution.	SE
+56_8	What is the relationship to speciation?	PT
+58_1	What is a real-time database?	SE
+58_2	How does it differ from traditional ones?	FT
+58_3	What are the advantages of real-time processing?	FT
+58_4	What are examples of important ones?	FT
+58_5	What are important applications?	FT
+58_6	What are important cloud options?	FT
+58_7	Tell me about the Firebase DB.	SE
+58_8	How is it used in mobile apps?	PT
+59_1	Which weekend sports have the most injuries?	SE
+59_2	What are the most common types of injuries?	FT
+59_3	What is the ACL?	FT
+59_4	What is an injury for it?	PT
+59_5	Tell me about the RICE method.	SE
+59_6	Is there disagreement about it?	PT
+59_7	What is arnica used for?	SE
+59_8	What are some ways to avoid injury?	SE
+61_1	Who are The Avengers?	SE
+61_2	Tell me about their first appearance.	FT
+61_3	Who is the most powerful and why?	FT
+61_4	What is the relationship of Spider-Man to the team?	FT
+61_5	Why is Batman not a member?	FT
+61_6	What is an important team in the DC universe?	SE
+61_7	Tell me about the origins of the Justice League.	SE
+61_8	Who are the important members?	PT
+61_9	Which team came first?	PT
+67_1	Why is blood red?	SE
+67_2	What are red blood cells?	SE
+67_3	How are they created?	PT
+67_4	How is oxygen transported?	PT
+67_5	What is anemia?	SE
+67_6	What are the symptoms?	PT
+67_7	Can it go away?	PT
+67_8	What are its possible causes?	PT
+67_9	How is it treated?	PT
+67_10	What foods contain high levels of iron?	SE
+67_11	What improves absorption?	PT
+68_1	What is cuisine is Emilia-Romagna famous for?	SE
+68_2	Tell me about cooking schools and classes.	FT
+68_3	What are famous foods from the region?	FT
+68_4	Describe the traditional process for making balsamic vinegar?	SE
+68_5	What is mortadella and where is it from?	SE
+68_6	What’s the difference with Bologna?	PT
+68_7	Where was Parmesan cheese created?	SE
+68_8	What is done with the whey after production?	PT
+68_9	What are typical pasta dishes?	FT
+68_10	What is the history of tagliatelle al ragu bolognese?	SE
+68_11	What are its common variations?	PT
+69_1	How do you sleep after jet lag?	SE
+69_2	Does melatonin help?	FT
+69_3	How was it discovered?	PT
+69_4	What are good sources in food?	PT
+69_5	Is melatonin bad for you?	SE
+69_6	What are the side effects?	PT
+69_7	Why does it require a prescription in the UK?	PT
+69_8	How can I increase my levels naturally?	PT
+69_9	Is it effective for treating insomnia?	PT
+69_10	How about for anxiety?	PT
+75_1	Why do turkey and Turkey share the same name?	SE
+75_2	Where are turkeys from?	SE
+75_3	What was their importance in native cultures?	FT
+75_4	When and how were they domesticated?	FT
+75_5	Can they fly?	FT
+75_6	Why did Ben Franklin want it to be the national symbol?	FT
+75_7	How did he cook it?	FT
+75_8	Why is it eaten on Thanksgiving?	FT
+75_9	How did it become traditional for Christmas dinner in Britain?	FT
+75_10	When did they become popular?	FT
+77_1	What's the difference between soup and stew?	SE
+77_2	Is chilli a stew?	SE
+77_3	How about goulash?	PT
+77_4	What are popular ones in France?	PT
+77_5	How is cassoulet made?	SE
+77_6	Tell me about feijoada and its significance.	SE
+77_7	How is it similar or different from cassoulet?	PT
+77_8	Tell about Bigos stew.	SE
+77_9	Why is it important?	PT
+77_10	What is the history of Irish stew?	SE
+78_1	What is the keto diet?	SE
+78_2	Why was it original developed?	FT
+78_3	What is ketosis?	SE
+78_4	What is paleo?	SE
+78_5	What do they have in common?	PT
+78_6	How are they different?	PT
+78_7	What is intermittent fasting?	SE
+78_8	How is it related to keto?	PT
+78_9	What is the 16/8 method?	SE
+78_10	What is the best for weight loss?	PT
+79_1	What is taught in sociology?	SE
+79_2	What is the main contribution of Auguste Comte?	SE
+79_3	What is the role of positivism in it?	FT
+79_4	What is Herbert Spencer known for?	SE
+79_5	How is his work related to Comte?	PT
+79_6	What is the functionalist theory?	SE
+79_7	What is its main criticism?	PT
+79_8	How does it compare to conflict theory?	PT
+79_9	What are modern examples of conflict theory?	SE

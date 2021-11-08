@@ -1,0 +1,194 @@
+31_1	What is throat cancer	What is throat cancer 	SE	1
+31_2	What is throat cancer 	Is it treatable 	FT	1
+31_3	What is throat cancer  Is it treatable 	Tell me about lung cancer 	SE	1
+31_4	What is throat cancer  Is it treatable  Tell me about lung cancer 	What are its symptoms 	PT	0
+31_5	What is throat cancer  Is it treatable  Tell me about lung cancer  What are its symptoms 	Can it spread to the throat 	PT	1
+31_6	What is throat cancer  Is it treatable  Tell me about lung cancer  What are its symptoms  Can it spread to the throat 	What causes throat cancer 	SE	1
+31_7	What is throat cancer  Is it treatable  Tell me about lung cancer  What are its symptoms  Can it spread to the throat  What causes throat cancer 	What is the first sign of it 	PT	1
+31_8	What is throat cancer  Is it treatable  Tell me about lung cancer  What are its symptoms  Can it spread to the throat  What causes throat cancer  What is the first sign of it 	Is it the same as esophageal cancer 	PT	1
+31_9	What is throat cancer  Is it treatable  Tell me about lung cancer  What are its symptoms  Can it spread to the throat  What causes throat cancer  What is the first sign of it  Is it the same as esophageal cancer 	What s the difference in their symptoms 	PT	0
+32_1	What are the different types of sharks	What are the different types of sharks 	SE	1
+32_2	What are the different types of sharks 	Are sharks endangered If so which species 	SE	1
+32_3	What are the different types of sharks  Are sharks endangered If so which species 	Tell me more about tiger sharks 	SE	1
+32_4	What are the different types of sharks  Are sharks endangered If so which species  Tell me more about tiger sharks 	What is the largest ever to have lived on Earth 	FT	1
+32_5	What are the different types of sharks  Are sharks endangered If so which species  Tell me more about tiger sharks  What is the largest ever to have lived on Earth 	What s the biggest ever caught 	FT	1
+32_6	What are the different types of sharks  Are sharks endangered If so which species  Tell me more about tiger sharks  What is the largest ever to have lived on Earth  What s the biggest ever caught 	What about for great whites 	SE	1
+32_7	What are the different types of sharks  Are sharks endangered If so which species  Tell me more about tiger sharks  What is the largest ever to have lived on Earth  What s the biggest ever caught  What about for great whites 	Tell me about makos 	SE	0
+32_8	What are the different types of sharks  Are sharks endangered If so which species  Tell me more about tiger sharks  What is the largest ever to have lived on Earth  What s the biggest ever caught  What about for great whites  Tell me about makos 	What are their adaptations 	PT	0
+32_9	What are the different types of sharks  Are sharks endangered If so which species  Tell me more about tiger sharks  What is the largest ever to have lived on Earth  What s the biggest ever caught  What about for great whites  Tell me about makos  What are their adaptations 	Where do they live 	PT	0
+32_10	What are the different types of sharks  Are sharks endangered If so which species  Tell me more about tiger sharks  What is the largest ever to have lived on Earth  What s the biggest ever caught  What about for great whites  Tell me about makos  What are their adaptations  Where do they live 	What do they eat 	PT	0
+32_11	What are the different types of sharks  Are sharks endangered If so which species  Tell me more about tiger sharks  What is the largest ever to have lived on Earth  What s the biggest ever caught  What about for great whites  Tell me about makos  What are their adaptations  Where do they live  What do they eat 	How do they compare with tigers for being dangerous 	PT	0
+33_1	Tell me about the Neverending Story film	Tell me about the Neverending Story film 	SE	1
+33_2	Tell me about the Neverending Story film 	What is it about 	FT	1
+33_3	Tell me about the Neverending Story film  What is it about 	How was it received 	FT	1
+33_4	Tell me about the Neverending Story film  What is it about  How was it received 	Did it win any awards 	FT	1
+33_5	Tell me about the Neverending Story film  What is it about  How was it received  Did it win any awards 	Was it a book first 	FT	1
+33_6	Tell me about the Neverending Story film  What is it about  How was it received  Did it win any awards  Was it a book first 	Who was the author and when what it published 	PT	1
+33_7	Tell me about the Neverending Story film  What is it about  How was it received  Did it win any awards  Was it a book first  Who was the author and when what it published 	What are the main themes 	FT	1
+33_8	Tell me about the Neverending Story film  What is it about  How was it received  Did it win any awards  Was it a book first  Who was the author and when what it published  What are the main themes 	Who are the main characters 	FT	1
+33_9	Tell me about the Neverending Story film  What is it about  How was it received  Did it win any awards  Was it a book first  Who was the author and when what it published  What are the main themes  Who are the main characters 	What are the differences between the book and movies 	FT	1
+33_10	Tell me about the Neverending Story film  What is it about  How was it received  Did it win any awards  Was it a book first  Who was the author and when what it published  What are the main themes  Who are the main characters  What are the differences between the book and movies 	Did the horse Artax really die 	SE	0
+34_1	Tell me about the Bronze Age collapse	Tell me about the Bronze Age collapse 	SE	1
+34_2	Tell me about the Bronze Age collapse 	What is the evidence for it 	FT	1
+34_3	Tell me about the Bronze Age collapse  What is the evidence for it 	What are some of the possible causes 	FT	1
+34_4	Tell me about the Bronze Age collapse  What is the evidence for it  What are some of the possible causes 	Who were the Sea Peoples 	SE	1
+34_5	Tell me about the Bronze Age collapse  What is the evidence for it  What are some of the possible causes  Who were the Sea Peoples 	What was their role in it 	PT	1
+34_6	Tell me about the Bronze Age collapse  What is the evidence for it  What are some of the possible causes  Who were the Sea Peoples  What was their role in it 	What other factors led to a breakdown of trade 	FT	1
+34_7	Tell me about the Bronze Age collapse  What is the evidence for it  What are some of the possible causes  Who were the Sea Peoples  What was their role in it  What other factors led to a breakdown of trade 	What about environmental factors 	FT	1
+34_8	Tell me about the Bronze Age collapse  What is the evidence for it  What are some of the possible causes  Who were the Sea Peoples  What was their role in it  What other factors led to a breakdown of trade  What about environmental factors 	What empires survived 	FT	1
+34_9	Tell me about the Bronze Age collapse  What is the evidence for it  What are some of the possible causes  Who were the Sea Peoples  What was their role in it  What other factors led to a breakdown of trade  What about environmental factors  What empires survived 	What came after it 	FT	1
+37_1	What was the Stanford Experiment	What was the Stanford Experiment 	SE	1
+37_2	What was the Stanford Experiment 	What did it show 	FT	1
+37_3	What was the Stanford Experiment  What did it show 	Tell me about the author of the experiment 	FT	1
+37_4	What was the Stanford Experiment  What did it show  Tell me about the author of the experiment 	Was it ethical 	FT	1
+37_5	What was the Stanford Experiment  What did it show  Tell me about the author of the experiment  Was it ethical 	What are other similar experiments 	FT	1
+37_6	What was the Stanford Experiment  What did it show  Tell me about the author of the experiment  Was it ethical  What are other similar experiments 	What happened in the Milgram experiment 	SE	1
+37_7	What was the Stanford Experiment  What did it show  Tell me about the author of the experiment  Was it ethical  What are other similar experiments  What happened in the Milgram experiment 	Why was it important 	PT	0
+37_8	What was the Stanford Experiment  What did it show  Tell me about the author of the experiment  Was it ethical  What are other similar experiments  What happened in the Milgram experiment  Why was it important 	What were the similarities and differences between the studies 	PT	1
+37_9	What was the Stanford Experiment  What did it show  Tell me about the author of the experiment  Was it ethical  What are other similar experiments  What happened in the Milgram experiment  Why was it important  What were the similarities and differences between the studies 	What about the BBC experiment 	SE	1
+37_10	What was the Stanford Experiment  What did it show  Tell me about the author of the experiment  Was it ethical  What are other similar experiments  What happened in the Milgram experiment  Why was it important  What were the similarities and differences between the studies  What about the BBC experiment 	What are the key findings 	PT	0
+37_11	What was the Stanford Experiment  What did it show  Tell me about the author of the experiment  Was it ethical  What are other similar experiments  What happened in the Milgram experiment  Why was it important  What were the similarities and differences between the studies  What about the BBC experiment  What are the key findings 	How did the results differ 	PT	0
+37_12	What was the Stanford Experiment  What did it show  Tell me about the author of the experiment  Was it ethical  What are other similar experiments  What happened in the Milgram experiment  Why was it important  What were the similarities and differences between the studies  What about the BBC experiment  What are the key findings  How did the results differ 	Why was it ended 	PT	0
+40_1	What are the origins of popular music	What are the origins of popular music 	SE	1
+40_2	What are the origins of popular music 	What are its characteristics 	FT	1
+40_3	What are the origins of popular music  What are its characteristics 	What technological developments enabled it 	FT	1
+40_4	What are the origins of popular music  What are its characteristics  What technological developments enabled it 	When and why did people start taking pop seriously 	SE	1
+40_5	What are the origins of popular music  What are its characteristics  What technological developments enabled it  When and why did people start taking pop seriously 	How has it been integrated into music education 	PT	1
+40_6	What are the origins of popular music  What are its characteristics  What technological developments enabled it  When and why did people start taking pop seriously  How has it been integrated into music education 	Describe some of the influential pop bands 	SE	1
+40_7	What are the origins of popular music  What are its characteristics  What technological developments enabled it  When and why did people start taking pop seriously  How has it been integrated into music education  Describe some of the influential pop bands 	What makes a song pop punk 	SE	1
+40_8	What are the origins of popular music  What are its characteristics  What technological developments enabled it  When and why did people start taking pop seriously  How has it been integrated into music education  Describe some of the influential pop bands  What makes a song pop punk 	What is the difference between it and emo 	PT	1
+40_9	What are the origins of popular music  What are its characteristics  What technological developments enabled it  When and why did people start taking pop seriously  How has it been integrated into music education  Describe some of the influential pop bands  What makes a song pop punk  What is the difference between it and emo 	How did Britpop change music 	SE	1
+40_10	What are the origins of popular music  What are its characteristics  What technological developments enabled it  When and why did people start taking pop seriously  How has it been integrated into music education  Describe some of the influential pop bands  What makes a song pop punk  What is the difference between it and emo  How did Britpop change music 	What are its roots and what influenced it 	PT	1
+49_1	How was Netflix started	How was Netflix started 	SE	1
+49_2	How was Netflix started 	How did it originally work 	FT	1
+49_3	How was Netflix started  How did it originally work 	What is its relationship with Blockbuster 	FT	1
+49_4	How was Netflix started  How did it originally work  What is its relationship with Blockbuster 	When did Netflix shift from DVDs to a streaming service 	SE	1
+49_5	How was Netflix started  How did it originally work  What is its relationship with Blockbuster  When did Netflix shift from DVDs to a streaming service 	What are its other competitors 	FT	1
+49_6	How was Netflix started  How did it originally work  What is its relationship with Blockbuster  When did Netflix shift from DVDs to a streaming service  What are its other competitors 	How does it compare to Amazon Prime Video 	FT	1
+49_7	How was Netflix started  How did it originally work  What is its relationship with Blockbuster  When did Netflix shift from DVDs to a streaming service  What are its other competitors  How does it compare to Amazon Prime Video 	Describe it s subscriber growth over time 	FT	1
+49_8	How was Netflix started  How did it originally work  What is its relationship with Blockbuster  When did Netflix shift from DVDs to a streaming service  What are its other competitors  How does it compare to Amazon Prime Video  Describe it s subscriber growth over time 	How has it changed the way TV is watched 	FT	1
+49_9	How was Netflix started  How did it originally work  What is its relationship with Blockbuster  When did Netflix shift from DVDs to a streaming service  What are its other competitors  How does it compare to Amazon Prime Video  Describe it s subscriber growth over time  How has it changed the way TV is watched 	How has it impacted society 	FT	0
+49_10	How was Netflix started  How did it originally work  What is its relationship with Blockbuster  When did Netflix shift from DVDs to a streaming service  What are its other competitors  How does it compare to Amazon Prime Video  Describe it s subscriber growth over time  How has it changed the way TV is watched  How has it impacted society 	How about dating and relationships 	FT	1
+50_1	What was the first artificial satellite	What was the first artificial satellite 	SE	1
+50_2	What was the first artificial satellite 	What are the types of orbits 	FT	1
+50_3	What was the first artificial satellite  What are the types of orbits 	What are the important classes of satellite 	FT	1
+50_4	What was the first artificial satellite  What are the types of orbits  What are the important classes of satellite 	How do navigation systems work 	FT	1
+50_5	What was the first artificial satellite  What are the types of orbits  What are the important classes of satellite  How do navigation systems work 	What is the Galileo system and why is it important 	FT	1
+50_6	What was the first artificial satellite  What are the types of orbits  What are the important classes of satellite  How do navigation systems work  What is the Galileo system and why is it important 	Why did it create tension with the US 	PT	0
+50_7	What was the first artificial satellite  What are the types of orbits  What are the important classes of satellite  How do navigation systems work  What is the Galileo system and why is it important  Why did it create tension with the US 	What are Cubesats 	SE	1
+50_8	What was the first artificial satellite  What are the types of orbits  What are the important classes of satellite  How do navigation systems work  What is the Galileo system and why is it important  Why did it create tension with the US  What are Cubesats 	What are their advantages 	PT	0
+50_9	What was the first artificial satellite  What are the types of orbits  What are the important classes of satellite  How do navigation systems work  What is the Galileo system and why is it important  Why did it create tension with the US  What are Cubesats  What are their advantages 	What are they used for 	PT	0
+50_10	What was the first artificial satellite  What are the types of orbits  What are the important classes of satellite  How do navigation systems work  What is the Galileo system and why is it important  Why did it create tension with the US  What are Cubesats  What are their advantages  What are they used for 	What is their future 	PT	0
+54_1	What is worth seeing in Washington D C	What is worth seeing in Washington D C 	SE	1
+54_2	What is worth seeing in Washington D C 	Which Smithsonian museums are the most popular 	SE	1
+54_3	What is worth seeing in Washington D C  Which Smithsonian museums are the most popular 	Why is the National Air and Space Museum important 	SE	1
+54_4	What is worth seeing in Washington D C  Which Smithsonian museums are the most popular  Why is the National Air and Space Museum important 	Is the Spy Museum free 	SE	1
+54_5	What is worth seeing in Washington D C  Which Smithsonian museums are the most popular  Why is the National Air and Space Museum important  Is the Spy Museum free 	What is there to do in DC after the museums close 	FT	1
+54_6	What is worth seeing in Washington D C  Which Smithsonian museums are the most popular  Why is the National Air and Space Museum important  Is the Spy Museum free  What is there to do in DC after the museums close 	What is the best time to visit the reflecting pools 	FT	0
+54_7	What is worth seeing in Washington D C  Which Smithsonian museums are the most popular  Why is the National Air and Space Museum important  Is the Spy Museum free  What is there to do in DC after the museums close  What is the best time to visit the reflecting pools 	Are there any famous foods 	FT	0
+54_8	What is worth seeing in Washington D C  Which Smithsonian museums are the most popular  Why is the National Air and Space Museum important  Is the Spy Museum free  What is there to do in DC after the museums close  What is the best time to visit the reflecting pools  Are there any famous foods 	What is a DC half smoke 	FT	0
+54_9	What is worth seeing in Washington D C  Which Smithsonian museums are the most popular  Why is the National Air and Space Museum important  Is the Spy Museum free  What is there to do in DC after the museums close  What is the best time to visit the reflecting pools  Are there any famous foods  What is a DC half smoke 	Tell me about its history 	FT	0
+56_1	What is Darwin s theory in a nutshell	What is Darwin s theory in a nutshell 	SE	1
+56_2	What is Darwin s theory in a nutshell 	How was it developed 	FT	1
+56_3	What is Darwin s theory in a nutshell  How was it developed 	How do sexual and asexual reproduction affect it 	FT	1
+56_4	What is Darwin s theory in a nutshell  How was it developed  How do sexual and asexual reproduction affect it 	How can fossils be used to understand it 	FT	1
+56_5	What is Darwin s theory in a nutshell  How was it developed  How do sexual and asexual reproduction affect it  How can fossils be used to understand it 	What is modern evidence for it 	FT	1
+56_6	What is Darwin s theory in a nutshell  How was it developed  How do sexual and asexual reproduction affect it  How can fossils be used to understand it  What is modern evidence for it 	What is the impact on modern biology 	FT	1
+56_7	What is Darwin s theory in a nutshell  How was it developed  How do sexual and asexual reproduction affect it  How can fossils be used to understand it  What is modern evidence for it  What is the impact on modern biology 	Compare and contrast microevolution and macroevolution 	SE	0
+56_8	What is Darwin s theory in a nutshell  How was it developed  How do sexual and asexual reproduction affect it  How can fossils be used to understand it  What is modern evidence for it  What is the impact on modern biology  Compare and contrast microevolution and macroevolution 	What is the relationship to speciation 	PT	1
+58_1	What is a real time database	What is a real time database 	SE	1
+58_2	What is a real time database 	How does it differ from traditional ones 	FT	1
+58_3	What is a real time database  How does it differ from traditional ones 	What are the advantages of real time processing 	FT	1
+58_4	What is a real time database  How does it differ from traditional ones  What are the advantages of real time processing 	What are examples of important ones 	FT	1
+58_5	What is a real time database  How does it differ from traditional ones  What are the advantages of real time processing  What are examples of important ones 	What are important applications 	FT	0
+58_6	What is a real time database  How does it differ from traditional ones  What are the advantages of real time processing  What are examples of important ones  What are important applications 	What are important cloud options 	FT	0
+58_7	What is a real time database  How does it differ from traditional ones  What are the advantages of real time processing  What are examples of important ones  What are important applications  What are important cloud options 	Tell me about the Firebase DB 	SE	0
+58_8	What is a real time database  How does it differ from traditional ones  What are the advantages of real time processing  What are examples of important ones  What are important applications  What are important cloud options  Tell me about the Firebase DB 	How is it used in mobile apps 	PT	1
+59_1	Which weekend sports have the most injuries	Which weekend sports have the most injuries 	SE	1
+59_2	Which weekend sports have the most injuries 	What are the most common types of injuries 	FT	1
+59_3	Which weekend sports have the most injuries  What are the most common types of injuries 	What is the ACL 	FT	1
+59_4	Which weekend sports have the most injuries  What are the most common types of injuries  What is the ACL 	What is an injury for it 	PT	0
+59_5	Which weekend sports have the most injuries  What are the most common types of injuries  What is the ACL  What is an injury for it 	Tell me about the RICE method 	SE	0
+59_6	Which weekend sports have the most injuries  What are the most common types of injuries  What is the ACL  What is an injury for it  Tell me about the RICE method 	Is there disagreement about it 	PT	0
+59_7	Which weekend sports have the most injuries  What are the most common types of injuries  What is the ACL  What is an injury for it  Tell me about the RICE method  Is there disagreement about it 	What is arnica used for 	SE	0
+59_8	Which weekend sports have the most injuries  What are the most common types of injuries  What is the ACL  What is an injury for it  Tell me about the RICE method  Is there disagreement about it  What is arnica used for 	What are some ways to avoid injury 	SE	0
+61_1	Who are The Avengers	Who are The Avengers 	SE	1
+61_2	Who are The Avengers 	Tell me about their first appearance 	FT	1
+61_3	Who are The Avengers  Tell me about their first appearance 	Who is the most powerful and why 	FT	1
+61_4	Who are The Avengers  Tell me about their first appearance  Who is the most powerful and why 	What is the relationship of Spider Man to the team 	FT	1
+61_5	Who are The Avengers  Tell me about their first appearance  Who is the most powerful and why  What is the relationship of Spider Man to the team 	Why is Batman not a member 	FT	1
+61_6	Who are The Avengers  Tell me about their first appearance  Who is the most powerful and why  What is the relationship of Spider Man to the team  Why is Batman not a member 	What is an important team in the DC universe 	SE	1
+61_7	Who are The Avengers  Tell me about their first appearance  Who is the most powerful and why  What is the relationship of Spider Man to the team  Why is Batman not a member  What is an important team in the DC universe 	Tell me about the origins of the Justice League 	SE	1
+61_8	Who are The Avengers  Tell me about their first appearance  Who is the most powerful and why  What is the relationship of Spider Man to the team  Why is Batman not a member  What is an important team in the DC universe  Tell me about the origins of the Justice League 	Who are the important members 	PT	0
+61_9	Who are The Avengers  Tell me about their first appearance  Who is the most powerful and why  What is the relationship of Spider Man to the team  Why is Batman not a member  What is an important team in the DC universe  Tell me about the origins of the Justice League  Who are the important members 	Which team came first 	PT	0
+67_1	Why is blood red	Why is blood red 	SE	1
+67_2	Why is blood red 	What are red blood cells 	SE	1
+67_3	Why is blood red  What are red blood cells 	How are they created 	PT	1
+67_4	Why is blood red  What are red blood cells  How are they created 	How is oxygen transported 	PT	1
+67_5	Why is blood red  What are red blood cells  How are they created  How is oxygen transported 	What is anemia 	SE	1
+67_6	Why is blood red  What are red blood cells  How are they created  How is oxygen transported  What is anemia 	What are the symptoms 	PT	0
+67_7	Why is blood red  What are red blood cells  How are they created  How is oxygen transported  What is anemia  What are the symptoms 	Can it go away 	PT	0
+67_8	Why is blood red  What are red blood cells  How are they created  How is oxygen transported  What is anemia  What are the symptoms  Can it go away 	What are its possible causes 	PT	0
+67_9	Why is blood red  What are red blood cells  How are they created  How is oxygen transported  What is anemia  What are the symptoms  Can it go away  What are its possible causes 	How is it treated 	PT	1
+67_10	Why is blood red  What are red blood cells  How are they created  How is oxygen transported  What is anemia  What are the symptoms  Can it go away  What are its possible causes  How is it treated 	What foods contain high levels of iron 	SE	0
+67_11	Why is blood red  What are red blood cells  How are they created  How is oxygen transported  What is anemia  What are the symptoms  Can it go away  What are its possible causes  How is it treated  What foods contain high levels of iron 	What improves absorption 	PT	1
+68_1	What is cuisine is Emilia Romagna famous for	What is cuisine is Emilia Romagna famous for 	SE	1
+68_2	What is cuisine is Emilia Romagna famous for 	Tell me about cooking schools and classes 	FT	1
+68_3	What is cuisine is Emilia Romagna famous for  Tell me about cooking schools and classes 	What are famous foods from the region 	FT	1
+68_4	What is cuisine is Emilia Romagna famous for  Tell me about cooking schools and classes  What are famous foods from the region 	Describe the traditional process for making balsamic vinegar 	SE	1
+68_5	What is cuisine is Emilia Romagna famous for  Tell me about cooking schools and classes  What are famous foods from the region  Describe the traditional process for making balsamic vinegar 	What is mortadella and where is it from 	SE	1
+68_6	What is cuisine is Emilia Romagna famous for  Tell me about cooking schools and classes  What are famous foods from the region  Describe the traditional process for making balsamic vinegar  What is mortadella and where is it from 	What s the difference with Bologna 	PT	1
+68_7	What is cuisine is Emilia Romagna famous for  Tell me about cooking schools and classes  What are famous foods from the region  Describe the traditional process for making balsamic vinegar  What is mortadella and where is it from  What s the difference with Bologna 	Where was Parmesan cheese created 	SE	1
+68_8	What is cuisine is Emilia Romagna famous for  Tell me about cooking schools and classes  What are famous foods from the region  Describe the traditional process for making balsamic vinegar  What is mortadella and where is it from  What s the difference with Bologna  Where was Parmesan cheese created 	What is done with the whey after production 	PT	0
+68_9	What is cuisine is Emilia Romagna famous for  Tell me about cooking schools and classes  What are famous foods from the region  Describe the traditional process for making balsamic vinegar  What is mortadella and where is it from  What s the difference with Bologna  Where was Parmesan cheese created  What is done with the whey after production 	What are typical pasta dishes 	FT	1
+68_10	What is cuisine is Emilia Romagna famous for  Tell me about cooking schools and classes  What are famous foods from the region  Describe the traditional process for making balsamic vinegar  What is mortadella and where is it from  What s the difference with Bologna  Where was Parmesan cheese created  What is done with the whey after production  What are typical pasta dishes 	What is the history of tagliatelle al ragu bolognese 	SE	1
+68_11	What is cuisine is Emilia Romagna famous for  Tell me about cooking schools and classes  What are famous foods from the region  Describe the traditional process for making balsamic vinegar  What is mortadella and where is it from  What s the difference with Bologna  Where was Parmesan cheese created  What is done with the whey after production  What are typical pasta dishes  What is the history of tagliatelle al ragu bolognese 	What are its common variations 	PT	0
+69_1	How do you sleep after jet lag	How do you sleep after jet lag 	SE	1
+69_2	How do you sleep after jet lag 	Does melatonin help 	FT	0
+69_3	How do you sleep after jet lag  Does melatonin help 	How was it discovered 	PT	0
+69_4	How do you sleep after jet lag  Does melatonin help  How was it discovered 	What are good sources in food 	PT	0
+69_5	How do you sleep after jet lag  Does melatonin help  How was it discovered  What are good sources in food 	Is melatonin bad for you 	SE	0
+69_6	How do you sleep after jet lag  Does melatonin help  How was it discovered  What are good sources in food  Is melatonin bad for you 	What are the side effects 	PT	0
+69_7	How do you sleep after jet lag  Does melatonin help  How was it discovered  What are good sources in food  Is melatonin bad for you  What are the side effects 	Why does it require a prescription in the UK 	PT	0
+69_8	How do you sleep after jet lag  Does melatonin help  How was it discovered  What are good sources in food  Is melatonin bad for you  What are the side effects  Why does it require a prescription in the UK 	How can I increase my levels naturally 	PT	0
+69_9	How do you sleep after jet lag  Does melatonin help  How was it discovered  What are good sources in food  Is melatonin bad for you  What are the side effects  Why does it require a prescription in the UK  How can I increase my levels naturally 	Is it effective for treating insomnia 	PT	0
+69_10	How do you sleep after jet lag  Does melatonin help  How was it discovered  What are good sources in food  Is melatonin bad for you  What are the side effects  Why does it require a prescription in the UK  How can I increase my levels naturally  Is it effective for treating insomnia 	How about for anxiety 	PT	1
+75_1	Why do turkey and Turkey share the same name	Why do turkey and Turkey share the same name 	SE	1
+75_2	Why do turkey and Turkey share the same name 	Where are turkeys from 	SE	1
+75_3	Why do turkey and Turkey share the same name  Where are turkeys from 	What was their importance in native cultures 	FT	1
+75_4	Why do turkey and Turkey share the same name  Where are turkeys from  What was their importance in native cultures 	When and how were they domesticated 	FT	1
+75_5	Why do turkey and Turkey share the same name  Where are turkeys from  What was their importance in native cultures  When and how were they domesticated 	Can they fly 	FT	1
+75_6	Why do turkey and Turkey share the same name  Where are turkeys from  What was their importance in native cultures  When and how were they domesticated  Can they fly 	Why did Ben Franklin want it to be the national symbol 	FT	1
+75_7	Why do turkey and Turkey share the same name  Where are turkeys from  What was their importance in native cultures  When and how were they domesticated  Can they fly  Why did Ben Franklin want it to be the national symbol 	How did he cook it 	FT	1
+75_8	Why do turkey and Turkey share the same name  Where are turkeys from  What was their importance in native cultures  When and how were they domesticated  Can they fly  Why did Ben Franklin want it to be the national symbol  How did he cook it 	Why is it eaten on Thanksgiving 	FT	1
+75_9	Why do turkey and Turkey share the same name  Where are turkeys from  What was their importance in native cultures  When and how were they domesticated  Can they fly  Why did Ben Franklin want it to be the national symbol  How did he cook it  Why is it eaten on Thanksgiving 	How did it become traditional for Christmas dinner in Britain 	FT	1
+75_10	Why do turkey and Turkey share the same name  Where are turkeys from  What was their importance in native cultures  When and how were they domesticated  Can they fly  Why did Ben Franklin want it to be the national symbol  How did he cook it  Why is it eaten on Thanksgiving  How did it become traditional for Christmas dinner in Britain 	When did they become popular 	FT	1
+77_1	What s the difference between soup and stew	What s the difference between soup and stew 	SE	1
+77_2	What s the difference between soup and stew 	Is chilli a stew 	SE	1
+77_3	What s the difference between soup and stew  Is chilli a stew 	How about goulash 	PT	1
+77_4	What s the difference between soup and stew  Is chilli a stew  How about goulash 	What are popular ones in France 	PT	1
+77_5	What s the difference between soup and stew  Is chilli a stew  How about goulash  What are popular ones in France 	How is cassoulet made 	SE	1
+77_6	What s the difference between soup and stew  Is chilli a stew  How about goulash  What are popular ones in France  How is cassoulet made 	Tell me about feijoada and its significance 	SE	0
+77_7	What s the difference between soup and stew  Is chilli a stew  How about goulash  What are popular ones in France  How is cassoulet made  Tell me about feijoada and its significance 	How is it similar or different from cassoulet 	PT	1
+77_8	What s the difference between soup and stew  Is chilli a stew  How about goulash  What are popular ones in France  How is cassoulet made  Tell me about feijoada and its significance  How is it similar or different from cassoulet 	Tell about Bigos stew 	SE	1
+77_9	What s the difference between soup and stew  Is chilli a stew  How about goulash  What are popular ones in France  How is cassoulet made  Tell me about feijoada and its significance  How is it similar or different from cassoulet  Tell about Bigos stew 	Why is it important 	PT	0
+77_10	What s the difference between soup and stew  Is chilli a stew  How about goulash  What are popular ones in France  How is cassoulet made  Tell me about feijoada and its significance  How is it similar or different from cassoulet  Tell about Bigos stew  Why is it important 	What is the history of Irish stew 	SE	1
+78_1	What is the keto diet	What is the keto diet 	SE	1
+78_2	What is the keto diet 	Why was it original developed 	FT	1
+78_3	What is the keto diet  Why was it original developed 	What is ketosis 	SE	1
+78_4	What is the keto diet  Why was it original developed  What is ketosis 	What is paleo 	SE	1
+78_5	What is the keto diet  Why was it original developed  What is ketosis  What is paleo 	What do they have in common 	PT	0
+78_6	What is the keto diet  Why was it original developed  What is ketosis  What is paleo  What do they have in common 	How are they different 	PT	0
+78_7	What is the keto diet  Why was it original developed  What is ketosis  What is paleo  What do they have in common  How are they different 	What is intermittent fasting 	SE	0
+78_8	What is the keto diet  Why was it original developed  What is ketosis  What is paleo  What do they have in common  How are they different  What is intermittent fasting 	How is it related to keto 	PT	0
+78_9	What is the keto diet  Why was it original developed  What is ketosis  What is paleo  What do they have in common  How are they different  What is intermittent fasting  How is it related to keto 	What is the 16 8 method 	SE	1
+78_10	What is the keto diet  Why was it original developed  What is ketosis  What is paleo  What do they have in common  How are they different  What is intermittent fasting  How is it related to keto  What is the 16 8 method 	What is the best for weight loss 	PT	0
+79_1	What is taught in sociology	What is taught in sociology 	SE	1
+79_2	What is taught in sociology 	What is the main contribution of Auguste Comte 	SE	1
+79_3	What is taught in sociology  What is the main contribution of Auguste Comte 	What is the role of positivism in it 	FT	1
+79_4	What is taught in sociology  What is the main contribution of Auguste Comte  What is the role of positivism in it 	What is Herbert Spencer known for 	SE	1
+79_5	What is taught in sociology  What is the main contribution of Auguste Comte  What is the role of positivism in it  What is Herbert Spencer known for 	How is his work related to Comte 	PT	1
+79_6	What is taught in sociology  What is the main contribution of Auguste Comte  What is the role of positivism in it  What is Herbert Spencer known for  How is his work related to Comte 	What is the functionalist theory 	SE	1
+79_7	What is taught in sociology  What is the main contribution of Auguste Comte  What is the role of positivism in it  What is Herbert Spencer known for  How is his work related to Comte  What is the functionalist theory 	What is its main criticism 	PT	1
+79_8	What is taught in sociology  What is the main contribution of Auguste Comte  What is the role of positivism in it  What is Herbert Spencer known for  How is his work related to Comte  What is the functionalist theory  What is its main criticism 	How does it compare to conflict theory 	PT	1
+79_9	What is taught in sociology  What is the main contribution of Auguste Comte  What is the role of positivism in it  What is Herbert Spencer known for  How is his work related to Comte  What is the functionalist theory  What is its main criticism  How does it compare to conflict theory 	What are modern examples of conflict theory 	SE	1

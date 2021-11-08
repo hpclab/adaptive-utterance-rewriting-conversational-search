@@ -1,0 +1,1564 @@
+1_1	What is a physician's assistant?	SE
+1_2	What are the educational requirements required to become one?	FT
+1_3	What does it cost?	PT
+1_4	What's the average starting salary in the UK?	FT
+1_5	What about in the US?	PT
+1_6	What school subjects are needed to become a registered nurse?	SE
+1_7	What is the PA average salary vs an RN?	SE
+1_8	What the difference between a PA and a nurse practitioner?	SE
+1_9	Do NPs or PAs make more?	SE
+1_10	Is a PA above a NP?	SE
+1_11	What is the fastest way to become a NP?	SE
+1_12	How much longer does it take to become a doctor after being an NP?	SE
+2_1	What are the main breeds of goat?	SE
+2_2	Tell me about boer goats.	SE
+2_3	What breed is good for meat?	FT
+2_4	Are angora goats good for it?	PT
+2_5	What about boer goats?	PT
+2_6	What are pygmies used for?	FT
+2_7	What is the best for fiber production?	FT
+2_8	How long do Angora goats live?	SE
+2_9	Can you milk them?	PT
+2_10	How many can you have per acre?	PT
+2_11	Are they profitable?	PT
+3_1	Tell me about the types of irregular heart beat.	SE
+3_2	How serious is an irregular heart beat?	SE
+3_3	What are the different types of tachycardia?	SE
+3_4	What is atrial flutter?	SE
+3_5	What causes it?	PT
+3_6	What's the difference between flutter and fibrillation?	SE
+3_7	How does afib affect an ECG?	SE
+3_8	Does it shorten your life?	PT
+3_9	What triggers it?	PT
+3_10	How do you stop an attack?	FT
+3_11	What is the best exercise for it?	PT
+4_1	What was the neolithic revolution?	SE
+4_2	When did it start and end?	FT
+4_3	Why did it start?	FT
+4_4	What did the neolithic invent?	SE
+4_5	What tools were used?	PT
+4_6	When was it brought to the british isles?	FT
+4_7	Describe the period that follows it.	FT
+4_8	What was its significance?	PT
+4_9	What were the houses like?	PT
+5_1	What are the best ways to cook a turkey?	SE
+5_2	Should I brine a turkey before smoking it?	SE
+5_3	How much salt do I use to brine it?	PT
+5_4	What kind of wood should I use?	PT
+5_5	How long should it be smoked for?	PT
+5_6	Is it healthy?	PT
+5_7	What can you do with leftovers?	PT
+5_8	How long are leftovers good for in the fridge?	PT
+5_9	What's a recipe for soup using it?	PT
+5_10	How about one for chili?	PT
+6_1	What are the most important US supreme court cases?	SE
+6_2	What did Plessy v. Ferguson establish?	SE
+6_3	How about Marbury vs Madison?	SE
+6_4	Was it unanimous?	PT
+6_5	What was the implication of Roe vs Wade?	SE
+6_6	What were the main arguments?	PT
+6_7	What was the point of Brown v Board of Ed?	SE
+6_8	What were the main arguments?	PT
+6_9	Why is it important today?	PT
+7_1	What are the different types of macromolecules?	SE
+7_2	Tell me about the characteristics of carbohydrates.	SE
+7_3	What are they composed of?	PT
+7_4	What is their basic structure?	PT
+7_5	What are the main types with examples of each?	PT
+7_6	Tell me about lipids.	SE
+7_7	What is their function?	PT
+7_8	What are the types?	PT
+7_9	What is the most common?	PT
+7_10	What is the difference between them and carbohydrates?	PT
+7_11	Why are carbs better?	PT
+8_1	What was the Securities Act of 1933?	SE
+8_2	What is exempt from it?	FT
+8_3	Why was it needed?	FT
+8_4	What was the reason for creating the 1934 act?	SE
+8_5	What is the largest securities exchange in the world?	SE
+8_6	How and when when was the NYSE created?	SE
+8_7	What was the first stock market?	SE
+9_1	Why is statistics important?	SE
+9_2	Why should one study it?	FT
+9_3	Tell me about its career options.	FT
+9_4	Are Data Scientists in high demand?	SE
+9_5	How much do they make on average in a year?	PT
+9_6	What is range?	PT
+9_7	Describe some different metrics to interpret it.	PT
+9_8	What are quartiles?	SE
+9_9	How do you find the lower and upper quartile?	SE
+10_1	How does water freeze?	SE
+10_2	What happens to its molecules?	FT
+10_3	Why isn't the bottom of the ocean frozen?	SE
+10_4	Can the bottom of the ocean freeze?	SE
+10_5	Where is the coldest place on Earth?	SE
+10_6	Does Dome Fuji have inhabitants?	SE
+10_7	Why is Antarctica so cold?	SE
+10_8	How cold is the water underneath the ice?	SE
+10_9	What is the biggest town?	PT
+11_1	What are futuristic designs?	SE
+11_2	How did this become a new trend?	FT
+11_3	Why are most of the constructions inspired by these designs?	FT
+11_4	What are the different domains where such designs have been adapted?	FT
+11_5	How has it affected technology?	FT
+11_6	How have the different giants in the business responded to this?	FT
+11_7	Has its introduction led to increase in business?	FT
+11_8	If designs are already futuristic, how will this change in the future?	SE
+12_1	What is a good age to get LASIK?	SE
+12_2	Give me a short description of the procedure.	FT
+12_3	What are its benefits?	FT
+12_4	What are the risks?	FT
+12_5	Describe experiences of some people who had it done.	FT
+12_6	Are there any good alternatives to it?	FT
+12_7	What is its success rate?	FT
+12_8	Once it's done, what kind of precautions do I need to take?	FT
+12_9	Does the effect wear off with age?	FT
+13_1	What is tofu exactly?	SE
+13_2	How is it made?	FT
+13_3	What are its origins?	FT
+13_4	What is the best?	FT
+13_5	Is it a kind of cheese?	FT
+13_6	Can I eat it raw?	FT
+13_7	What are common ways to cook it?	FT
+13_8	In what cuisines is it popular?	FT
+13_9	Is it good for you?	FT
+13_10	Can it make you sick?	FT
+13_11	Is too much of it bad for you?	FT
+14_1	What are scalable data center network architectures?	SE
+14_2	What are some examples?	FT
+14_3	Describe the characteristics of FAT tree topology.	SE
+14_4	What routes can be taken by an upstream packet?	PT
+14_5	Describe core, aggregator and edge switches.	SE
+14_6	Are flows bidirectional?	PT
+14_7	How many forwarding rules are there in each layer of the tree?	PT
+14_8	Describe the jellyfish architecture.	SE
+14_9	Which architecture is more resilient to failure?	PT
+15_1	Tell me about the International Linguistics Olympiad.	SE
+15_2	How do I prepare for it?	FT
+15_3	How tough is the exam?	FT
+15_4	What kind of problems can I expect?	FT
+15_5	Tell me about the history of linguistics as a field.	SE
+15_6	Who was Panini and what were his contributions?	SE
+15_7	What is the link between linguistics and computer science?	SE
+16_1	What is a normal blood sugar level?	SE
+16_2	What does it mean if it's higher than this?	FT
+16_3	What is a dangerous level?	FT
+16_4	How do you bring it down quickly?	FT
+16_5	How fast can it rise?	FT
+16_6	And what if it's lower than normal?	FT
+16_7	How does this make you feel?	FT
+16_8	Do different activities lead to an imbalance?	FT
+16_9	Is there a relation between age and sugar levels?	SE
+17_1	What are the different forms of energy?	SE
+17_2	How can it be stored?	FT
+17_3	What type of energy is used in motion?	SE
+17_4	Tell me about mechanical energy.	SE
+17_5	Give me some examples.	PT
+17_6	Why is sound a form of mechanical energy?	SE
+17_7	How does it differ from potential energy?	PT
+17_8	Are potential and kinetic the same?	SE
+17_9	What type does chemical energy belong to?	SE
+17_10	What form of energy is used in eating?	SE
+18_1	Describe Uranus.	SE
+18_2	What makes it so unusual?	FT
+18_3	Tell me about its orbit.	FT
+18_4	Why is it tilted?	FT
+18_5	How is its rotation different from other planets?	FT
+18_6	What is peculiar about its seasons?	FT
+18_7	Are there any other planets similar to it?	FT
+18_8	Describe the characteristics of Neptune.	SE
+18_9	Why is it important to our solar system?	PT
+18_10	How are these two planets similar to each other?	PT
+18_11	Can life exist on either of them?	PT
+19_1	What is chemical energy?	SE
+19_2	Describe a chemical reaction.	SE
+19_3	How is it represented mathematically?	PT
+19_4	Give me an example.	PT
+19_5	What are the different kinds of reactions?	PT
+19_6	What is a decomposition reaction?	SE
+19_7	How is it a chemical change?	PT
+19_8	What is a synthesis reaction?	SE
+19_9	Tell me the differences between synthesis and decomposition.	SE
+20_1	Describe cell membranes.	SE
+20_2	What are its important functions?	FT
+20_3	Tell me about the phospholipid bilayer.	SE
+20_4	What are its functions?	PT
+20_5	What if the membrane gets damaged?	FT
+20_6	Do they repair themselves?	FT
+20_7	Which nutrients may help in the repair process?	FT
+21_1	What is weathering?	SE
+21_2	What are its major types?	FT
+21_3	Tell me about chemical weathering.	SE
+21_4	How is it different from biological weathering?	PT
+21_5	Does it change the composition of rocks?	PT
+21_6	What is the end product of chemical weathering?	SE
+21_7	Give me an example.	PT
+21_8	What happens when quartz undergoes weathering?	SE
+22_1	What are the most common spices used in cooking?	SE
+22_2	How are they different from herbs?	FT
+22_3	Why do spices taste good?	SE
+22_4	Where do most of them come from?	FT
+22_5	What cuisines use them heavily?	FT
+22_6	What are the most popular Indian ones?	FT
+22_7	Tell me about turmeric.	SE
+22_8	Are there any benefits of consuming it?	PT
+22_9	What is the oldest spice?	SE
+22_10	What is the most expensive and why?	PT
+23_1	What are the main types of cattle farming?	SE
+23_2	What breeds produce the most milk?	FT
+23_3	How much do Holsteins produce?	FT
+23_4	What is special about Jersey milk?	SE
+23_5	Do we eat dairy cows?	SE
+23_6	What are the most common breeds for meat?	FT
+23_7	Where are angus beef from?	SE
+23_8	How much space do they need?	PT
+24_1	How can I help my friend stop smoking?	SE
+24_2	What are its long term effects?	FT
+24_3	Does it cause cancer?	FT
+24_4	What makes it so addictive?	FT
+24_5	Are there any alternatives to nicotine?	SE
+24_6	How effective are the patches?	PT
+24_7	Tell me about the cold turkey method.	FT
+24_8	Describe typical withdrawal symptoms.	FT
+25_1	Tell me about Orca whales.	SE
+25_2	Are they really whales?	FT
+25_3	How do they hunt?	FT
+25_4	What do they eat?	FT
+25_5	Where did they get their name?	FT
+25_6	Are they dangerous?	FT
+25_7	Where can go to watch them?	FT
+25_8	When is a good season for spotting them?	FT
+25_9	How does captivity affect them?	FT
+26_1	What defines a chemical element?	SE
+26_2	How are they related to the Periodic Table?	FT
+26_3	How is it organised?	PT
+26_4	How does a chemical compound differ from an element?	SE
+26_5	What are different types of compounds?	PT
+26_6	How are they formed?	PT
+26_7	Which ones are important for the human body?	PT
+26_8	What are important ones used on a daily basis?	PT
+27_1	What comprises a balanced diet?	SE
+27_2	Is it the same for men as well as women?	FT
+27_3	What are some specific recommendations for women?	FT
+27_4	Are dairy products necessary for a good health?	FT
+27_5	Can it harm you instead?	FT
+27_6	How necessary is fiber?	FT
+27_7	What happens if it's consumed in a smaller amount than recommended?	PT
+28_1	Describe global warming.	SE
+28_2	What are its dangers?	FT
+28_3	Are there any methods to prevent it getting worse?	FT
+28_4	What can I do at an individual level?	FT
+28_5	How do I reduce my carbon footprint?	SE
+28_6	Is the US government doing anything about it?	FT
+28_7	How is overpopulation related?	FT
+29_1	What is the British Invasion in music?	SE
+29_2	What era did it happen?	FT
+29_3	What genre did it involve?	FT
+29_4	What is so special about it?	FT
+29_5	Which bands were a key part?	FT
+29_6	What was the leading band and what was its role?	FT
+29_7	Is it related to any other musical movements?	FT
+29_8	What was its impact on American music?	FT
+29_9	What other music movement succeeded it?	FT
+30_1	What are some advantages of using Linux?	SE
+30_2	Can I run Windows software in it?	FT
+30_3	How does it compare to Windows?	FT
+30_4	Which of these is more popular?	PT
+30_5	How do I install software on it?	FT
+30_6	What is an easy way to install Python?	FT
+30_7	Tell me about how I can share files.	FT
+35_1	Tell me about the history of toilets.	SE
+35_2	Where does the term come from?	FT
+35_3	Where and when was the first invented?	FT
+35_4	Why do the Brits call it a loo?	PT
+35_5	What came before them?	FT
+35_6	When did indoor versions become common?	FT
+35_7	How many types are there?	FT
+35_8	Why are they so important for society?	FT
+35_9	What is their role in film?	FT
+36_1	What is the US Electoral College?	SE
+36_2	How does it work?	FT
+36_3	Tell me about its creation.	FT
+36_4	Why was the system chosen?	FT
+36_5	How has it changed over time?	FT
+36_6	What if the electors don't vote for the pledged candidate?	FT
+36_7	How has this changed election outcomes?	FT
+36_8	Who are the Hamilton Electors and what were they trying to do?	SE
+36_9	How would the College be abolished?	FT
+36_10	How does the National Popular Vote Interstate Compact work?	SE
+36_11	Is it legal?	PT
+38_1	What is Lyme disease?	SE
+38_2	How do you get Lyme Disease?	SE
+38_3	How does it make you feel?	FT
+38_4	What happens if it goes untreated?	FT
+38_5	Can it kill you?	FT
+38_6	How reliable is the test?	FT
+38_7	Can it be cured?	FT
+38_8	What is Chronic Lyme?	SE
+39_1	What does it mean to be a vegan?	SE
+39_2	What is the environmental argument for it?	FT
+39_3	Do you need milk for strong bones?	SE
+39_4	What are other good sources of calcium?	PT
+39_5	If you don't eat any meat, at all, is it bad for you?	SE
+39_6	What are good sources of vitamin B12?	SE
+39_7	Does it help you lose weight?	FT
+39_8	What about its health effects versus being vegetarian?	FT
+39_9	How does the environmental impact compare between them?	FT
+41_1	Why is the drinking age in the US 21 and not 18?	SE
+41_2	What were the pros and cons?	FT
+41_3	Tell me about the negative health effects of drinking.	SE
+41_4	How does binge drinking affect development?	SE
+41_5	Can it damage mental health?	PT
+41_6	What are the short and long-term effects of usage on brain chemicals?	PT
+41_7	Are alcoholics generally depressed?	SE
+41_8	What are the effects on vitamins and minerals?	FT
+41_9	Are there any benefits?	FT
+42_1	What is Chattanooga famous for?	SE
+42_2	What is there to do in downtown Chattanooga?	SE
+42_3	Are there tourism activities related to trucks or trains?	FT
+42_4	Are there any related to Bessie Smith?	PT
+42_5	Can I visit some nearby distilleries?	FT
+42_6	What is Rock City, and why is it famous?	SE
+42_7	Are special events held there?	PT
+42_8	What kind of food is Chattanooga known for?	SE
+43_1	What are some interesting things around Ann Arbor?	SE
+43_2	Tell me about when the city was founded.	FT
+43_3	How does it relate to the establishment of the University?	FT
+43_4	Does the Museum of Art have any special collections?	FT
+43_5	What is the South Pond Nature Area?	SE
+43_6	Are there any film festivals?	FT
+43_7	How about for jazz?	FT
+43_8	What are popular bars or clubs where I can listen to it?	PT
+44_1	What causes acidic reflux in the morning?	SE
+44_2	Does it have long term side effects?	FT
+44_3	What is the best OTC for it?	FT
+44_4	What are the side effects of long term PPI use?	SE
+44_5	Tell me about natural treatments.	FT
+44_6	What foods cause it?	FT
+44_7	What ones reduce it?	FT
+44_8	How does exercise affect it?	FT
+45_1	What dog breed is the best for playing?	SE
+45_2	What kind should I get if I’m allergic?	FT
+45_3	How about big and active dogs?	FT
+45_4	Do big dogs live longer than small dogs?	SE
+45_5	Will I need to put a lot of time into training?	FT
+45_6	Tell me about some breeds that are independent and can be left home all day.	FT
+45_7	How much does a Irish Wolfhound weigh?	SE
+45_8	How much do they cost?	PT
+46_1	Why is learning a second language difficult?	SE
+46_2	At what age is it harder and why?	FT
+46_3	If I already know English, which language would be the easiest to learn?	SE
+46_4	How can I begin learning Norwegian?	SE
+46_5	Is it easier to learn than Spanish?	PT
+46_6	What other languages are closest to it?	PT
+46_7	Describe some of its similarities with Danish.	PT
+46_8	How did all these languages evolve?	PT
+46_9	How is it related to Old Norse?	PT
+46_10	Are there advantages of knowing multiple languages?	SE
+47_1	Why is Boise called the city of trees?	SE
+47_2	How did it get its name?	FT
+47_3	What is there to do in the summer?	FT
+47_4	What are popular hiking trails?	FT
+47_5	Tell me about the Oregon Trail Reserve.	SE
+47_6	Tell me about the history of the Boise Greenbelt.	SE
+47_7	What is the controversy around it?	PT
+48_1	What is the main function of a virtual machine?	SE
+48_2	What are its advantages?	FT
+48_3	Describe some of its disadvantages.	FT
+48_4	How do they work?	FT
+48_5	What are the main types of VMs?	SE
+48_6	What is their role in cloud computing?	FT
+48_7	How is a container different?	FT
+48_8	What is the advantage of Docker?	SE
+48_9	How is it related Kurbenetes?	PT
+51_1	How do I save for a child’s college education in the US?	SE
+51_2	What is a 529 plan?	SE
+51_3	How does it work?	PT
+51_4	What are the main advantages?	PT
+51_5	What about disadvantages?	PT
+51_6	How long have they been around?	PT
+51_7	What are the types of plans?	FT
+51_8	What can the funds be used for?	PT
+51_9	What happens if it’s not used?	PT
+51_10	How does a ESA compare?	PT
+52_1	Describe the Afra tanker scale.	SE
+52_2	Why was it developed?	FT
+52_3	What are supertankers?	SE
+52_4	Describe their invention.	PT
+52_5	What are the important factors led to their development?	PT
+52_6	What was the role of the Six-Day War?	SE
+52_7	How many barrels can a VLCC ship carry?	SE
+52_8	What is the largest in the world?	PT
+52_9	What new problem did increased scale create?	PT
+52_10	Describe crude oil washing.	SE
+53_1	Is Red Bull bad for you?	SE
+53_2	Can it kill you?	FT
+53_3	How much can you drink in a day?	FT
+53_4	What is taurine?	SE
+53_5	What are its health effects?	PT
+53_6	In general, what are the effects of consuming energy drinks?	SE
+53_7	Why are they harmful when mixed with alcohol?	PT
+53_8	What is the argument for their age restriction to kids?	PT
+53_9	Where are they banned to minors?	PT
+55_1	Describe the oceanic crust.	SE
+55_2	What are the main layers?	FT
+55_3	How does it differ from the continental crust?	FT
+55_4	Which is younger and why?	PT
+55_5	Where is the youngest oceanic found?	SE
+55_6	What about the oldest?	PT
+55_7	What is seafloor spreading?	SE
+55_8	What is its significance?	PT
+55_9	How is ocean crust formed?	SE
+55_10	Is it being recycled?	PT
+57_1	How can you tell if someone is suffering from depression?	SE
+57_2	What are common types?	FT
+57_3	What causes it?	FT
+57_4	What is the role of brain chemicals?	FT
+57_5	Does a lack of sunlight cause it?	FT
+57_6	How can you treat SAD?	SE
+57_7	What is the role of melatonin?	PT
+57_8	How are anxiety and depression related?	SE
+57_9	What treatments exist for depression?	SE
+57_10	What is CBT and how does it work?	FT
+60_1	Tell me about the benefits of yoga.	SE
+60_2	Does it help in reducing stress?	FT
+60_3	What are some of the main types?	FT
+60_4	What type is best for losing weight?	FT
+60_5	What are common poses in Bikram yoga?	SE
+60_6	Why is mindful breathing important?	SE
+60_7	Does it help relieve asthma?	FT
+62_1	What is the Surrealism movement in art?	SE
+62_2	What are its characteristics?	FT
+62_3	Tell me about its founding.	FT
+62_4	Tell me about the series of manifestos.	FT
+62_5	How is it different from Dada?	FT
+62_6	What is its importance?	FT
+62_7	Who are the most famous artists?	FT
+62_8	Why did Dali choose surrealism?	SE
+62_9	What are his most iconic works?	PT
+62_10	Is it still used today?	FT
+62_11	What has its impact been on other fields?	FT
+63_1	What is blockchain?	SE
+63_2	What problem does it solve?	FT
+63_3	How does it work?	FT
+63_4	What are the types of networks?	FT
+63_5	Tell me about its invention.	FT
+63_6	How is it related to cryptocurrencies?	FT
+63_7	How is Bitcoin generated?	SE
+63_8	How secure is blockchain?	SE
+63_9	What are its other uses in business?	PT
+63_10	What are the implications for society?	PT
+64_1	What are the types of pork ribs?	SE
+64_2	What are baby backs?	FT
+64_3	What are the differences with spareribs?	PT
+64_4	What are ways to cook them?	FT
+64_5	How about on the bbq?	FT
+64_6	Describe the 321 method.	FT
+64_7	How long do they take to smoke?	FT
+64_8	How do you know when they are done?	FT
+64_9	What is in a typical rub?	FT
+64_10	What’s the best style of sauce for them?	FT
+64_11	What’s in Kansas City style sauce?	FT
+65_1	What is nominal GDP?	SE
+65_2	Why is it not a good measure?	FT
+65_3	What is the difference with real?	FT
+65_4	How is it related to gross national income?	FT
+65_5	What is the meaning of GNI?	SE
+65_6	How is inflation affected by high GDP growth?	SE
+65_7	What is the relationship between inflation and unemployment?	SE
+65_8	What is frictional unemployment and why is it important?	SE
+65_9	Is it bad for the economy?	PT
+65_10	How can the government reduce its level?	PT
+66_1	Tell me about lavender plants.	SE
+66_2	What are the different types?	FT
+66_3	What places are famous for them?	FT
+66_4	Are they safe to eat?	FT
+66_5	What variety is best for cooking?	FT
+66_6	How is it used?	FT
+66_7	What is it good with?	FT
+66_8	What are the health benefits of its oil?	FT
+66_9	Are there any side effects?	FT
+70_1	What is solar energy?	SE
+70_2	What are its main uses?	FT
+70_3	Why is it important?	FT
+70_4	What are advantages of solar energy?	SE
+70_5	What is the cost of solar power?	SE
+70_6	How is being used in rural Africa?	FT
+70_7	Tell me more about solar cookers work.	SE
+70_8	How is solar used in architecture?	FT
+70_9	What are important projects?	FT
+70_10	Can it be used to power cars?	FT
+71_1	What are mammals?	SE
+71_2	What are their key characteristics?	FT
+71_3	How many legs do they have?	FT
+71_4	What is the largest one on land?	FT
+71_5	What is the largest in the world?	FT
+71_6	What about in the UK?	PT
+71_7	What about the largest to ever walk the earth?	FT
+71_8	Tell me about Blue whales.	SE
+71_9	How much do they weigh?	PT
+71_10	Where do they live?	PT
+71_11	What do they eat?	PT
+71_12	Where can we see them?	PT
+72_1	What do Spanish people do on Christmas day?	SE
+72_2	What do they eat for dinner?	FT
+72_3	How about on Christmas eve?	FT
+72_4	What is the Christmas Lottery?	FT
+72_5	How does the drawing work?	PT
+72_6	How are the tickets sold?	PT
+72_7	What is Tió de Nadal?	SE
+72_8	How did this tradition start?	PT
+72_9	How do they celebrate Three Kings Day?	SE
+72_10	What cakes are traditional?	PT
+73_1	Who is the most successful pirate of all time?	SE
+73_2	Who is the most famous female?	FT
+73_3	Tell me more about Ching Shih.	SE
+73_4	What were her code of laws?	PT
+73_5	How did she die?	PT
+73_6	Who was Anne Bonny?	SE
+73_7	What was she famous for?	PT
+73_8	Who was she married to?	PT
+73_9	How did Calico Jack die?	SE
+73_10	What happened to Anne?	PT
+74_1	What are the pros and cons of electric cars?	SE
+74_2	Tell me more about Tesla.	SE
+74_3	Why did Elon Musk start it?	PT
+74_4	What models are available?	PT
+74_5	What is the best selling?	PT
+74_6	What is unique about the Model 3?	PT
+74_7	What are the safety features?	PT
+74_8	Why is it building Gigafactories?	PT
+74_9	What makes the batteries unique?	PT
+74_10	How long can they last?	PT
+74_11	Tell me more about autopilot.	SE
+74_12	Does it support full self-driving?	PT
+76_1	What are important literary elements?	SE
+76_2	What is the difference between them and literary devices?	FT
+76_3	What is a genre?	FT
+76_4	What are the most important ones?	PT
+76_5	What is a trope?	FT
+76_6	What are important examples in fantasy?	FT
+76_7	What is the definition of allegory?	SE
+76_8	What are some important modern uses?	PT
+76_9	What are the different types of foreshadowing?	SE
+76_10	What is an example?	PT
+80_1	What were the purposes of the Lewis and Clark expedition?	SE
+80_2	What were important plants and animals they discovered?	FT
+80_3	What were the diplomatic objectives?	FT
+80_4	What were the Native American tribes that they encountered?	FT
+80_5	How did Sacagawea help them?	FT
+80_6	Did they find the Northwest Passage?	FT
+80_7	What was the purpose of Fort Mandan?	FT
+80_8	How did they spend the next winter?	FT
+80_9	What happened to Fort Clatsop?	FT
+80_10	What was the impact of the expedition?	FT
+81_1	When did The Carpenters sign with A&M Records?	SE
+81_2	What song was their first hit?	FT
+81_3	When did Karen die?	FT
+81_4	Karen had what eating problem?	FT
+81_5	and how did she die?	PT
+82_1	Does Bradley Cooper star in American Hustle?	SE
+82_2	When was he born?	PT
+82_3	And who composed?	PT
+82_4	Did the movie win a Golden Globe award?	FT
+82_5	How long is the movie?	FT
+83_1	What year did the Carpenters sign with A&M Records?	SE
+83_2	What song was their first hit?	FT
+83_3	What's the date of Karen's death?	FT
+83_4	What disorder did Karen have?	FT
+83_5	What caused her death?	PT
+85_1	Which famous author wrote the fantasy book series Harry Potter?	SE
+85_2	Which book was the first one written?	FT
+85_3	What novel was the final one?	FT
+85_4	What character joins Harry Potter after being saved by him?	SE
+85_5	The series consists of which amount of books?	FT
+86_1	Lethal Weapon is on what network?	SE
+86_2	What was the first episode date?	FT
+86_3	Where is it set?	FT
+86_4	What's the name of the two cops?	FT
+86_5	What actors played those roles?	PT
+87_1	From which country is the band Queen ?	SE
+87_2	and when were they founded ?	FT
+87_3	Who influenced the band ?	FT
+87_4	How many awards did they recieve ?	FT
+87_5	Place where the band formed?	FT
+89_1	How many seasons of Friends were there?	SE
+89_2	Who produced the show?	FT
+89_3	Who distributed the show?	FT
+89_4	What was the theme song called?	FT
+89_5	Where did Jennifer Aniston and David Schwimmer both work?	SE
+90_1	What was Elvis Presley given name?	SE
+90_2	What is Elvis Presley birthday?	SE
+90_3	Where did Elvis Presley live?	SE
+90_4	Was Elvis in the military?	FT
+90_5	What year did Elvis sing Jailhouse Rock?	SE
+91_1	What's the place of birth of Manuel Neuer?	SE
+91_2	What state of Germany does his birth place belong to?	FT
+91_3	What's the capital?	PT
+91_4	Does it have an airport?	PT
+91_5	What's the name of the main soccer club there?	PT
+92_1	In what year was the film Black Panther released?	SE
+92_2	Black Panther played by who?	SE
+92_3	Does the larger Marvel universe include Black Panther?	SE
+92_4	Directed by who?	FT
+92_5	Has Black Panther been in other Marvel films?	SE
+93_1	Did The Black Eyed Peas form in 1998?	SE
+93_2	Where did they first get together?	FT
+93_3	What music do they play?	FT
+93_4	Do they have an official website?	FT
+93_5	Did Fergie leave the band in 2014 ?	FT
+94_1	Who was the Author of One Flew Over the Cuckoo's Nest?	SE
+94_2	In which year was it published?	FT
+94_3	What region is it's setting?	FT
+94_4	Did it go to Broadway?	FT
+94_5	Was it adapted for the big screen?	FT
+97_1	What English Premier League soccer team did David Beckham play for in 2002?	SE
+97_2	and who's he married to?	FT
+97_3	he won what award in 2012?	FT
+97_4	where's he from?	FT
+98_1	What other name is Harry Potter and the Philosophers Stone known by?	SE
+98_2	Who is the author?	FT
+98_3	What is the the title of the next book?	FT
+98_4	What is the fourth book called?	FT
+99_1	How many seasons did the TV show Friends air?	SE
+99_2	Who produced the show?	FT
+99_3	Who distributed the show?	FT
+99_4	What was the theme song for the show?	FT
+99_5	Where did Jennifer Aniston and David Schwimmer both work?	SE
+100_1	Who created The Orville?	SE
+100_2	What network airs it?	FT
+100_3	How long does an episode run?	FT
+100_4	What was the airdate of the first episode?	FT
+100_5	What's the name of the actress who is the Xelayan security chief?	SE
+101_1	Who plays the role of Queen Elizabeth II in the TV series The Crown?	SE
+101_2	who plays the queen's husband?	FT
+101_3	whom is the series a historical drama on?	FT
+101_4	the series was created by?	FT
+103_1	When did Mission: Impossible – Fallout come out?	SE
+103_2	what actor was the lead?	FT
+103_3	and who directed the movie?	FT
+103_4	what genre was the movie?	FT
+103_5	who was the film's production company?	FT
+104_1	What is the name of Celine Dion's husband ?	SE
+104_2	his death year?	FT
+104_3	and the cause of his death was?	FT
+104_4	Celine Dion's song in the movie Titanic?	SE
+104_5	her first English-languge album was called as?	FT
+105_1	What other name is Harry Potter and the Philosophers Stone known by?	SE
+105_2	Who is the author?	FT
+105_3	What is the next book?	FT
+109_1	Who is the author of the book Charlotte's Web?	SE
+109_2	Who is the publisher of Charlotte's Web?	SE
+109_3	When was the book published?	FT
+109_4	Did the book get an award?	FT
+109_5	What country was the book written?	FT
+110_1	What year did the TV show Breaking Bad premiere?	SE
+110_2	What's the name of the show's creator?	FT
+110_3	Which network did it air on?	FT
+110_4	What is the name of the actor who played Walter White?	SE
+110_5	Aaron Paul played which character on the show?	FT
+111_1	Who is the main creator of the series Supernatural?	SE
+111_2	How many seasons are there in 2018?	FT
+111_3	What actor plays the father for Sam and Dean?	FT
+111_4	Whats the yellow eyed demons name?	FT
+111_5	Who is the actor that plays Bobby Singer?	SE
+112_1	What is the full name of Kanye West?	SE
+112_2	Which genre does he play?	FT
+112_3	and what is his wife?	PT
+112_4	What was the first album?	FT
+112_5	Where did he drop out from to make music?	FT
+113_1	What's the place of birth of Manuel Neuer?	SE
+113_2	What state of Germany does his birth place belong to?	PT
+113_3	How is the capital city called?	PT
+113_4	Is there an airport?	PT
+113_5	What's the name of the main soccer club there?	PT
+114_1	Where does the idea of Game of Thrones come from ?	SE
+114_2	Directors of the TV series ?	FT
+114_3	How many episodes exists in 2018 ?	FT
+114_4	and where was it shown first ?	FT
+114_5	Where is the head quarter location ?	FT
+115_1	What movie by Steven Spielberg features a great white terroizing an island?	SE
+115_2	Where did the shark attack happen in Jaws?	SE
+115_3	Which person is attacked by the shark first in Jaws?	SE
+115_4	Who is the chief in Jaws?	SE
+115_5	What is the fishermans name in the movie Jaws?	SE
+116_1	The Los Angeles Galaxy are a member of what soccer league?	SE
+116_2	what's their home stadium?	FT
+116_3	when did the team start up?	FT
+116_4	did David Beckham play for them?	FT
+116_5	what was the coach's name in August 2008?	FT
+117_1	By whom is the character the unicorn in The Last Unicorn dubbed?	SE
+117_2	Did the voice actor work as a model in the past?	PT
+117_3	Is the movie based on a book?	FT
+117_4	By whom is the soundtrack?	FT
+117_5	In what style is their music typically?	PT
+118_1	What year was the movie Die Hard released?	SE
+118_2	And who is the primary actor?	FT
+118_3	Which director directed it?	FT
+118_4	Which book is the movie based on?	FT
+120_1	Who is the author of Ready Player One?	SE
+120_2	what kind of story is it?	FT
+120_3	was something created from the book?	FT
+120_4	what was the book's publisher?	FT
+120_5	and did the book win any awards?	FT
+121_1	When is the singer Halsey born?	SE
+121_2	Is the singer Lana Del Rey older than her?	FT
+121_3	And what album from Lana Del Rey did come out in 2014?	SE
+122_1	Who was the creator of the TV series M*A*S*H?	SE
+122_2	which network aired it?	FT
+122_3	who was the director?	FT
+122_4	it was about which war?	FT
+122_5	who played Hawkeye?	FT
+123_1	Did the book To Kill a Mockingbird win a Pulitzer Prize?	SE
+123_2	Which year did it win?	FT
+123_3	And in what genre?	FT
+123_4	Who was the author of the book?	FT
+123_5	Did it also win a National Book Award for Fiction?	FT
+125_1	Did The Black Eyed Peas form in 1998?	SE
+125_2	Where did they first get together?	FT
+125_3	What music category do they belong?	FT
+125_4	What is their official website?	FT
+125_5	Did Fergie leave the group in 2014?	FT
+126_1	David Beckham played for which English Premier League soccer team in the year 2002?	SE
+126_2	and who's he married to?	FT
+126_3	what award did he get in 2012?	FT
+126_4	country was he born?	FT
+128_1	What country is Fernando Torres from?	SE
+128_2	What club did he play for in 2012?	FT
+128_3	Which club won the Champions League that year?	PT
+128_4	Did Torres play for Spain's national team in 2010?	SE
+128_5	Who won the World Cup that year?	PT
+130_1	Who wrote Foundation?	SE
+130_2	When was it released?	FT
+130_3	Is it part of a series?	FT
+130_4	What is the name of the next book?	FT
+130_5	Is that the final part of the series?	PT
+134_1	What is McEntire's genre?	SE
+134_2	The name of the college she attended?	FT
+134_3	When is her birthday?	FT
+134_4	Where was Reba born?	FT
+134_5	Is she an actress?	FT
+135_1	Who is the author of Ready Player One?	SE
+135_2	what kind of story is it?	FT
+135_3	was something created from the book?	FT
+135_4	who published the book?	FT
+135_5	what awards did the book win?	FT
+136_1	What's the name of the main singer for Thirty Seconds to Mars?	SE
+136_2	In what year did the band come together?	FT
+136_3	Their latest release is called what?	FT
+136_4	When was it released?	PT
+136_5	What was their first album?	FT
+137_1	What is Post Malones gender?	SE
+137_2	Where did he go to university?	FT
+137_3	Is the album Stoney from him?	FT
+137_4	From which record label is it?	PT
+137_5	Which album was it followed by?	PT
+138_1	What movie by Steven Spielberg features a great white terroizing an island?	SE
+138_2	What lsland is Jaws located in?	SE
+138_3	Which person is attacked by the shark first in Jaws?	SE
+138_4	What is the Chiefs name in Jaws?	SE
+138_5	Who is the fisherman in Jaws?	SE
+139_1	What album did Sufjan Stevens release first?	SE
+139_2	What label released this album?	PT
+139_3	When was this singer born?	FT
+139_4	Under what genre does his music normally fall?	FT
+139_5	What college did he attend?	FT
+140_1	Which was the first club that Jonas Hector was playing for?	SE
+140_2	At which time did he play at that club?	PT
+140_3	For which club did he play after that?	PT
+140_4	At which year was the player born?	FT
+141_1	Name of the club Zlatan Ibrahimović was playing for in 2016/2017?	SE
+141_2	Was he born in the country of Manchester United F.C. from?	FT
+141_3	Country name of that club?	PT
+141_4	Did they win wc 2018?	PT
+141_5	Where was that event held?	PT
+142_1	What channel has been home to Saturday Night Live since it’s debut?	SE
+142_2	What’s the name of the show’s creator?	FT
+142_3	What Canadian city is he from?	PT
+142_4	On what day did it begin?	FT
+142_5	Who was the first host?	FT
+143_1	Where was the band Die Toten Hosen founded ?	SE
+143_2	In which country is the city located ?	PT
+143_3	In which year was the band founded ?	FT
+143_4	Are they playing punk rock ?	FT
+143_5	Is this genre part of the genres of the band Die Ärzte?	PT
+144_1	What year was the album Like A Virgin released?	SE
+144_2	what artist did the album?	FT
+144_3	and what style music was the album?	FT
+144_4	who produced the record?	FT
+144_5	the record label for the album was whom?	FT
+145_1	Who is the author of Foundation?	SE
+145_2	When did he release it?	FT
+145_3	Is it part of a series?	FT
+145_4	So what is the sequel?	FT
+145_5	Is that the final part of the series?	PT
+147_1	Name the club Lionel Messi is currently playing for?	SE
+147_2	who is the captain?	FT
+147_3	Where is he from?	PT
+148_1	What is the genre of the TV series Modern Family ?	SE
+148_2	Was How I Met Your Mother produced after Modern Family ?	SE
+148_3	What is the number of seasons until 2018?	FT
+148_4	In which city does the TV series play?	FT
+148_5	In which continent is this city?	PT
+149_1	Which country was the winner of the FIFA World Cup in 2018?	SE
+149_2	When was the final held?	FT
+149_3	At which stadium?	FT
+149_4	Who was the head coach of the winning team?	FT
+149_5	And the score at the end of the game was?	FT
+151_1	Who is the star of the TV show Elementary?	SE
+151_2	wasn't he in a movie too?	FT
+151_3	what's his costar's name	FT
+151_4	isn't the show based on a book series?	FT
+151_5	the show is part of what tv network?	FT
+152_1	Which cartoonist came up with The Simpsons?	SE
+152_2	What year was the first episode?	FT
+152_3	What character does the show focus on?	FT
+152_4	and who voices him?	PT
+152_5	The wife of Homer is who?	SE
+153_1	Who directed and screenwrote the incredibles?	SE
+153_2	Did he also produce the movie?	FT
+153_3	What about the sequel, did he direct and screenwrite it?	FT
+153_4	Did the first and the second movies both win academy award?	FT
+154_1	Genre of the book Eragon?	SE
+154_2	and who wrote it ?	FT
+154_3	and when was he born ?	PT
+154_4	When was the book published ?	FT
+154_5	Who is the publisher ?	FT
+156_1	Who performs Freddie Mercury in Bohemian Rhapsody?	SE
+156_2	Where is he born?	FT
+156_3	What is this actors field of work?	FT
+156_4	And who was the executive producer of the movie?	FT
+156_5	And who edited the movie ?	FT
+158_1	How long does the movie Angels & Demons take ?	SE
+158_2	Is there a movie that follows ?	FT
+158_3	Is Tom Hanks a cast member ?	FT
+158_4	In which country is he citizen ?	PT
+159_1	Name of the club Zlatan Ibrahimović was playing for in 2016/2017?	SE
+159_2	Was he born in the country of Manchester United F.C. from?	FT
+159_3	Country name of that club?	FT
+159_4	Did that country win 2018 wc?	PT
+159_5	Country name of that event?	PT
+160_1	Who plays Archie Andrews in Riverdale?	SE
+160_2	What about Jughead Jones?	FT
+160_3	What comic was it based on?	FT
+160_4	When was it released?	FT
+160_5	What about the television series?	FT
+161_1	What English Premier League soccer team did David Beckham play for in 2002?	SE
+161_2	and who's he married to?	FT
+161_3	what award did he get in 2012?	FT
+161_4	where's he from?	FT
+162_1	the city Maroon 5 comes from?	SE
+162_2	is it also where their vocalist and bassist were born?	FT
+162_3	what are the names of the ones who are not from LA among them?	FT
+162_4	which city he was born in?	PT
+162_5	anyone else in the band also born there?	PT
+163_1	How long does the movie Angels & Demons take ?	SE
+163_2	Is it part of a series ?	FT
+163_3	Is Tom Hanks a cast member ?	FT
+163_4	In which country is he citizen ?	PT
+164_1	Who wrote Law and Order?	SE
+164_2	Which channel did Law and Order come on?	SE
+164_3	What was the name of the actor who played Jack McCoy?	SE
+164_4	Who did Chris Noth play on Law and Order?	SE
+164_5	How many seasons was Law and Order?	SE
+165_1	What was the name of the author who wrote The Wonderful Wizard of Oz?	SE
+165_2	Can you name the Movie made from the book The Wonderful of Oz?	SE
+165_3	What is the name of the good witch in the The Wonderful Wizard of Oz?	SE
+165_4	When was The Wizard of Oz written?	SE
+165_5	What genre is this book?	FT
+168_1	Who played the part of Allison DuBois in the TV show Medium?	SE
+168_2	What cities DA did she work for?	FT
+168_3	What actor stared as the DA?	FT
+168_4	and who played Allison's husband?	FT
+169_1	What position did David Beckham play?	SE
+169_2	In what league did he play first?	FT
+169_3	What was the name of the school he went to?	FT
+169_4	Was Beckham in the 1998 World Cup?	SE
+169_5	What is the name of David Beckham's wife?	SE
+170_1	Who was the male lead actor in High School Musical?	SE
+170_2	What was the name of his character?	FT
+170_3	Who was the female lead actress?	FT
+170_4	Who played Sharpay?	FT
+170_5	Who was the director of the film?	FT
+172_1	The movie Die Hard was released in theaters in which year?	SE
+172_2	And who is the primary actor?	FT
+172_3	And what is the character's name that he plays?	FT
+172_4	Which director directed it?	FT
+172_5	Which book is the movie based on?	FT
+173_1	From what country is the band Green Day?	SE
+173_2	In what year did the band get started?	FT
+173_3	The band's lead singer is who?	FT
+173_4	What major record label signed them?	FT
+173_5	The first album released with Reprise Records was what?	FT
+174_1	Who directs The Matrix?	SE
+174_2	Complete title of Matrix 2?	SE
+174_3	Any sequel to Matrix 2?	SE
+174_4	Who is Hugo Weaving play there?	FT
+174_5	Who acted as Trinity there?	FT
+175_1	company that owns Zenit St Petersburg?	SE
+175_2	it also owns Moscow teams Dynamo and Spartak?	FT
+175_3	and among the three how many play in the russian premier league?	PT
+175_4	and which is the oldest?	PT
+175_5	how is their stadium called?	PT
+176_1	Who won the 2018 FIFA World Cup?	SE
+176_2	When was the final held?	FT
+176_3	What's the name of the stadium it was played at?	FT
+176_4	Who was the head coach of the winning team?	FT
+176_5	What was the score at the end of the final?	FT
+177_1	What is the genre of the TV series Modern Family ?	SE
+177_2	Was it produced before How I Met Your mother ?	FT
+177_3	What is the number of seasons until 2018?	FT
+177_4	What is the film location of the TV series?	FT
+177_5	In which continent is this city?	PT
+178_1	Who wrote the book One Flew Over the Cuckoo's Nest?	SE
+178_2	What year did it hit the shelves?	FT
+178_3	What state is it set in?	FT
+178_4	Was the book adapted to live theater?	FT
+178_5	Was it made for film?	FT
+179_1	By whom is the character the unicorn in The Last Unicorn dubbed?	SE
+179_2	Did the voice actor work as a model in the past?	FT
+179_3	Is the movie based on a book?	FT
+179_4	By whom is the soundtrack?	FT
+179_5	What genre do they play normally?	PT
+180_1	Who created The X-Files?	SE
+180_2	What year did the show debut?	FT
+180_3	What network did the show run on?	FT
+180_4	Who were the two main characters in the show?	FT
+180_5	What two actors portrayed those characters?	FT
+181_1	How long does the movie Angels & Demons take ?	SE
+181_2	Is there a movie that follows ?	FT
+181_3	How many screenwriters has the movie ?	FT
+181_4	Is Tom Hanks part of the movie ?	FT
+181_5	In which country is he citizen ?	PT
+183_1	What's the name of the league that Manchester United is a member of?	SE
+183_2	what's their home pitch?	FT
+183_3	who was the coach in 2017?	FT
+183_4	what song do their fans sing?	FT
+183_5	what was the first time they were in the cup finals?	FT
+184_1	Who is the singer of The Killers?	SE
+184_2	What about the drummer?	FT
+184_3	and he was born which date?	FT
+184_4	who of the killers was also born that year?	PT
+185_1	What's the name of the person who created the TV show Firefly?	SE
+185_2	Did he write some episodes too?	FT
+185_3	Who was the character Mal Reynolds played by?	PT
+185_4	When did the first episode air?	FT
+185_5	How many episodes in the series?	FT
+186_1	The movie Black Panther was released during what year?	SE
+186_2	What actor was Black Panther?	SE
+186_3	Does the larger Marvel universe include Black Panther?	SE
+186_4	Directed by who?	FT
+186_5	Does Black Panther show up in other movies?	SE
+187_1	Who plays Malorie in Bird Box?	SE
+187_2	What station is it on?	FT
+187_3	Who's the director?	FT
+187_4	When was it released?	FT
+187_5	Whats the rating?	FT
+189_1	When was the first short story about The Witcher released?	SE
+189_2	And the computer game The Witcher 1?	FT
+189_3	Which actor dubbed Geralt?	FT
+189_4	Is he still in The Witcher 3?	PT
+189_5	What's Ciri's full name?	FT
+190_1	Who is the writer of the fiction novel 1Q84?	SE
+190_2	the country that the author is from?	FT
+190_3	he won the World Fantasy Award for?	FT
+190_4	is he a recipient of Franz Kafka award?	FT
+191_1	Can you tell me the author of Watership Down?	SE
+191_2	What nationality is the author?	FT
+191_3	What is the year of his birth?	FT
+191_4	What kind of animal was the main character in the book?	FT
+191_5	What was the year the novel was published?	FT
+193_1	whom Anjelica Huston plays in The Addams Family?	SE
+193_2	number of kids of Morticia?	FT
+193_3	who playes the younger?	PT
+245_1	Who wrote the book Adventures of Huckleberry Finn?	SE
+245_2	Is Tom Sawyer in the book?	FT
+245_3	What is the name of the river in the book?	FT
+245_4	What company published the book?	FT
+245_5	Who's telling the story?	FT
+246_1	The movie Black Panther was released during what year?	SE
+246_2	What actor was Black Panther?	SE
+246_3	Is the movie part of MCU?	FT
+246_4	Directed by who?	FT
+246_5	Does Black Panther show up in other movies?	SE
+248_1	Who are the films The Wolf Of Wall Street and Shutter Island directed by?	SE
+248_2	Which one has the higher duration?	FT
+248_3	Which one has won more awards?	FT
+248_4	When was Wolf Of Wall Street published in the US?	SE
+248_5	Based on literature?	FT
+249_1	What kind of TV series is Modern Family?	SE
+249_2	Was How I Met Your Mother produced after Modern Family ?	SE
+249_3	What is the number of seasons until 2018?	FT
+249_4	What is the film location of the TV series?	FT
+250_1	Who was the novel Watership Down written by?	SE
+250_2	In what year was it published?	FT
+250_3	And what language was it written in?	FT
+250_4	Is it a part of the speculative fiction genre?	FT
+250_5	Did it earn a Carnegie Medal?	FT
+251_1	What is McEntire's genre?	SE
+251_2	Did she go to college?	FT
+251_3	What is Reba's birthday?	FT
+251_4	Her birthplace?	FT
+251_5	Does she act?	FT
+252_1	Who wrote the book The Stand?	SE
+252_2	What genre does the book fall in?	FT
+252_3	When did it come out?	FT
+252_4	Who was the publisher?	FT
+252_5	What did the characters call the illness that killed everyone?	FT
+253_1	How many members did Led Zeppelin have?	SE
+253_2	Which one they released first: Houses of the Holy or Physical Graffiti?	FT
+253_3	Is the rain song and immigrant song there?	PT
+253_4	Who is the lyricist of those songs?	PT
+253_5	Name of his previous band?	PT
+254_1	What year was Ender's Game published?	SE
+254_2	Who wrote it?	FT
+254_3	What is the book's genre?	FT
+254_4	Is it one book within a series?	FT
+254_5	How many books are in the series?	FT
+255_1	Who was the director for the movie The Great Outdoors?	SE
+255_2	Is The Great Outdoors a comedy?	SE
+255_3	Who is the writer for the movie The Great Outdoors?	SE
+255_4	Which two male actors were in The Great Outdoors?	SE
+255_5	Which movie company made The Great Outdoors?	SE
+256_1	Who plays Ruth Langmore in Ozark?	SE
+256_2	How many seasons?	FT
+256_3	How many seasons daredevil?	SE
+256_4	Who plays as Daredevil?	FT
+256_5	Is Daredevil in Infinity War?	SE
+257_1	What other name is Harry Potter and the Philosophers Stone known by?	SE
+257_2	Who wrote it?	FT
+257_3	What is the the title of the next book?	FT
+257_4	What is the name of the third book?	FT
+258_1	Who performs Freddie Mercury in Bohemian Rhapsody?	SE
+258_2	His place of birth?	FT
+258_3	What is his occupation?	PT
+258_4	Who produced the film?	FT
+258_5	What about the film editor ?	FT
+260_1	What is the name of the creator for The X-Files?	SE
+260_2	In what year did the show come out?	FT
+260_3	On what network did it air?	FT
+260_4	The show was about what two main characters?	FT
+260_5	Who played those characters?	FT
+261_1	Who created the TV show Breaking Bad?	SE
+261_2	Did he recieve any award's for that show?	FT
+261_3	What other show's has he worked on since Breaking Bad ended?	PT
+261_4	What year did that show's first episode air?	PT
+261_5	Have there been any awards given out for that show in 2019?	PT
+262_1	What is the birthplace of Dolly Parton?	SE
+262_2	What is the name of her husband?	FT
+262_3	When was she born?	FT
+262_4	Does she have a middle name?	FT
+262_5	Which song won her a Grammy Award in 1981?	FT
+263_1	Name the Star Wars creator.	SE
+263_2	When was it released?	FT
+263_3	Who played Luke?	FT
+263_4	what actress played Leia?	FT
+264_1	Did Bastian Schweinsteiger receive any awards while he played for FC Bayern München?	SE
+264_2	Did he play for the German National team when he got one of those awards?	FT
+264_3	What's the name of his brother?	FT
+264_4	What does he do for a living?	FT
+264_5	Did he also play in the German National Team?	FT
+266_1	Who was the director of the movie Scream?	SE
+266_2	Sidney Prescott was play by who?	FT
+266_3	What year did Scream came out?	SE
+266_4	What is the name of the screenwriter?	FT
+266_5	Who did Courteney Cox play in the movie?	FT
+267_1	Who wrote the book One Flew Over the Cuckoo's Nest?	SE
+267_2	What year did it hit the shelves?	FT
+267_3	What region is it's setting?	FT
+267_4	Did it go to Broadway?	FT
+267_5	Was it made for film?	FT
+271_1	What is the place of birth of Jürgen Klopp ?	SE
+271_2	date of birth ?	FT
+271_3	In which club was he trainer in 2014 ?	FT
+272_1	When was Beverly Hills Cop published in the USA?	SE
+272_2	What was the publication date in Germany?	FT
+272_3	Who stared as Axel Foley?	FT
+272_4	Films together with James Earl Jones?	PT
+273_1	What network was Vampire Diaries on?	SE
+273_2	It came out when?	FT
+273_3	Who was the main character?	FT
+273_4	Who played her?	PT
+273_5	When was she born?	PT
+274_1	Who is the voice actor of the unicorn in The Last Unicorn?	SE
+274_2	Did the voice actor work as a model in the past?	FT
+274_3	Is the movie based on a book?	FT
+274_4	Who provided the music for the movie?	FT
+274_5	In what style is their music typically?	PT
+275_1	In the series Medium, who played the part of Allison DuBois?	SE
+275_2	What cities DA did she work for?	FT
+275_3	What actor stared as the DA?	FT
+275_4	What actor played Allison's husband?	FT
+275_5	How many seasons did it run?	FT
+276_1	Taylor Swift's record label?	SE
+276_2	Who is her father?	FT
+276_3	What is his occupation?	FT
+276_4	When did she release Fearless?	FT
+277_1	What is the name of the creator for The X-Files?	SE
+277_2	What year did the show debut?	FT
+277_3	On what network did it air?	FT
+277_4	The show was about what two main characters?	FT
+277_5	Who played those characters?	PT
+278_1	How many seasons is Parks and Recreation?	SE
+278_2	Who played as a character and also produced the series?	FT
+278_3	Did the series also feature Chris Pratt?	FT
+278_4	Were they born in the same city?	PT
+280_1	When was Eddie Pope born?	SE
+280_2	Pope played for which team first?	FT
+280_3	Type of player?	FT
+280_4	Where was he born?	FT
+280_5	What year did he play in the Summer Olympics?	FT
+281_1	What is the home country for Manchester United?	SE
+281_2	What league does it compete in?	FT
+281_3	In what year did the team begin?	FT
+281_4	How many league titles has the team won?	FT
+281_5	Who's the team manager in the first half of 2019?	FT
+283_1	Did Crazy Rich Asians come out in 2017?	SE
+283_2	Who directed it?	FT
+283_3	Who was the screenwriter?	FT
+283_4	What is the MPAA film rating?	FT
+283_5	Where is the narrative location set?	FT
+284_1	When is the singer Halsey born?	SE
+284_2	Is she younger than the singer Lana Del Rey?	FT
+284_3	And what album from Lana Del Rey did come out in 2014?	SE
+284_4	What about 2017?	PT
+284_5	Are they the same music genre?	PT
+285_1	Who is the head coach for the US Men's National Soccer Team?	SE
+285_2	When did he get the job?	FT
+285_3	What year was the team founded?	FT
+285_4	Have they ever won the world cup?	FT
+285_5	How many world cup has the team been in?	FT
+286_1	Who is the author of Foundation?	SE
+286_2	When was it released?	FT
+286_3	Is it part of a series?	FT
+286_4	What is the name of the next book?	FT
+286_5	Is that the final part of the series?	FT
+287_1	In what year was Ender's Game written?	SE
+287_2	Who wrote it?	FT
+287_3	What is the book's genre?	FT
+287_4	Is it one book within a series?	FT
+287_5	How many books are in the series?	FT
+288_1	What year did Saving Private Ryan first show in the US?	SE
+288_2	What little known actor starred in this movie?	FT
+288_3	"Who starred as ""Captain Miller"" in the movie?"	FT
+288_4	Who was the director of the movie?	FT
+288_5	Where is the opening scene?	FT
+291_1	Who wrote the book Adventures of Huckleberry Finn?	SE
+291_2	Is Tom Sawyer in the book?	FT
+291_3	Where is the book suppose to take place?	FT
+291_4	Who was the publisher?	FT
+291_5	Which character tells the story?	FT
+292_1	Led Zeppelin had how many band members?	SE
+292_2	Which one they released first: Houses of the Holy or Physical Graffiti?	FT
+292_3	Is the rain song and immigrant song there?	PT
+292_4	Who is the lyricist of those songs?	PT
+292_5	Name of his previous band?	PT
+293_1	The album Thriller was made by what musician?	SE
+293_2	when did it come out?	FT
+296_1	Name the club Lionel Messi is currently playing for?	SE
+296_2	Who was named captain of this club?	FT
+296_3	Where is he from?	PT
+297_1	Who is the author of the book To kill a Mockingbird?	SE
+297_2	the book's genre?	FT
+297_3	the novel's Pulitzer prize winning year?	FT
+297_4	name of the movie based on this book?	FT
+297_5	who directed the movie?	PT
+298_1	The Wall was an album made by what band?	SE
+298_2	and what type music was it?	FT
+298_3	who made the cover art?	FT
+298_4	and the producer was who?	FT
+298_5	who was the American record label?	FT
+299_1	Who is the author of the book Charlotte's Web?	SE
+299_2	what is charlotte?	FT
+299_3	what species is charlotte's friend?	FT
+299_4	what kind of book?	FT
+299_5	the authors birthdate?	FT
+300_1	Vampire Diaries aired on what network?	SE
+300_2	It came out when?	FT
+300_3	Who was the main character?	FT
+300_4	What was the actress's name?	FT
+300_5	When was she born?	PT
+301_1	On which book is the series Game of Thrones based ?	SE
+301_2	What about the creators ?	FT
+301_3	What is the number of episodes in 2018 ?	FT
+301_4	What was the original network ?	FT
+302_1	Which competitions do the Champions League winners qualify for?	SE
+302_2	and the competition started in?	FT
+302_3	the winners of the Champions League in 2018?	SE
+304_1	Who created The Orville?	SE
+304_2	What network is it on?	FT
+304_3	How long does an episode run?	FT
+304_4	What was the airdate of the first episode?	FT
+304_5	What's the name of the actress who is the Xelayan security chief?	FT
+305_1	Where does the band Queen come from ?	SE
+305_2	and when were they founded ?	FT
+305_3	Who influenced the band ?	FT
+305_4	number of recieved awards ?	FT
+305_5	Place where the band formed?	FT
+306_1	Which competitions do the Champions League winners qualify for?	SE
+306_2	and the competition started in?	FT
+306_3	who won the competition title in 2018?	FT
+306_4	which team did the winners defeat?	PT
+306_5	the man of the match was?	PT
+307_1	Which actor starred in the role of Amenadiel in Lucifer?	SE
+307_2	What about Mr Morningstar?	FT
+307_3	When was the actor born?	PT
+307_4	What about D. B. Woodside?	FT
+307_5	Does the series relate to the DC comics' Lucifer?	FT
+309_1	"Which band produced the album known as the ""dark side of the moon""?"	SE
+309_2	What lead singer is no longer part of Pink Floyd?	SE
+309_3	Who was pink floyds first lead vocalist?	SE
+309_4	Who is the leader in 2018?	FT
+309_5	Which pink floyd album is a movie?	SE
+310_1	What's the name of the person who created the TV show Firefly?	SE
+310_2	Was he a screenwriter on any of the episodes?	FT
+310_3	And which actor played Mal Reynolds?	FT
+310_4	And which date did the first episode premiere on television?	FT
+310_5	There were how many episodes?	FT
+311_1	Who is the author of the book Charlotte's Web?	SE
+311_2	Who published the book?	FT
+311_3	When was the book published?	FT
+311_4	What award did the book get?	FT
+311_5	Where was the book written?	FT
+313_1	How many seasons of Friends were there?	SE
+313_2	Who was the producer?	FT
+313_3	Who distributed the show?	FT
+313_4	What was the theme song called?	FT
+313_5	Where did Jennifer Aniston and David Schwimmer both show up?	FT
+314_1	What is the subtitle of the book Fire and Fury?	SE
+314_2	Who wrote it?	FT
+314_3	Date of publication?	FT
+314_4	The subjects name?	FT
+314_5	Birthdate of the author?	FT
+315_1	What was the name of the director of the movie Scream?	SE
+315_2	Which actress played Sidney Prescott?	FT
+315_3	What year did Scream came out?	FT
+315_4	Who wrote the screenplay?	FT
+315_5	Who did Courteney Cox play in the movie?	FT
+316_1	Who is the creator of The Orville?	SE
+316_2	What network airs it?	FT
+316_3	What's the runtime of an episode?	FT
+316_4	What was the airdate of the first episode?	FT
+316_5	Who is the actress who plays the Xelayan security chief on the show?	FT
+317_1	Where does the idea of Game of Thrones come from ?	SE
+317_2	What about the creators ?	FT
+317_3	How many episodes exists in 2018 ?	FT
+317_4	and where was it shown first ?	FT
+318_1	By whom is the character the unicorn in The Last Unicorn dubbed?	SE
+318_2	Did the voice actor work as a model in the past?	FT
+318_3	Is the movie made from a book?	FT
+318_4	By whom is the soundtrack?	FT
+318_5	In what style is their music typically?	PT
+319_1	Who is the writer of the fiction novel 1Q84?	SE
+319_2	the country that the author is from?	FT
+319_3	which of his books won the World Fantasy Award for the best novel?	PT
+319_4	is he a recipient of Franz Kafka award?	PT
+321_1	Did Mesut Özil play in the 2018 World Cup?	SE
+321_2	Name of his football club in 2014?	FT
+321_3	Name of the previous club?	PT
+322_1	When was Shoot to Thrill by AC/DC released?	SE
+322_2	Where are they from?	FT
+322_3	Is highway to hell from them too?	FT
+322_4	At which year did they release it?	PT
+323_1	Did The Black Eyed Peas first get together in 1998?	SE
+323_2	Where did they first get together?	FT
+323_3	What music do they play?	FT
+323_4	What is their official website?	FT
+323_5	Did Fergie leave the band in 2014 ?	FT
+324_1	What is the date of the death of Bob Marley?	SE
+324_2	Why did he die?	FT
+324_3	Mother's occupation?	FT
+324_4	Did his mother die after him?	FT
+324_5	First single hit in germany?	FT
+325_1	Was Topher Grace an actor in That '70s Show?	SE
+325_2	In what US state did the show take place?	FT
+325_3	Is it considered a sitcom?	FT
+325_4	Who created the show?	FT
+325_5	Was David Trainer a director of the show?	FT
+326_1	Did the book To Kill a Mockingbird win a Pulitzer Prize?	SE
+326_2	Which year did it win?	FT
+326_3	And in what genre?	FT
+326_4	Who was the author of the book?	FT
+326_5	Was the book also a winner of the National Book Award for Fiction?	FT
+327_1	Which network was the tv series Mash on?	SE
+327_2	Who played the head nurse?	FT
+327_3	Name of the theme music?	FT
+327_4	What was the first showing of Mash?	SE
+327_5	Who did Alan Alda play?	FT
+328_1	What is the name of the first book from The Lord Of The Rings book series?	SE
+328_2	How many parts?	FT
+328_3	Where is the author born?	FT
+329_1	What kind of show is Yellowstone?	SE
+329_2	Who plays John Dutton?	SE
+329_3	Who directed the television show?	FT
+329_4	What network is the show on?	FT
+329_5	Which state is the show suppose to be in?	FT
+330_1	The television show M*A*S*H was the creation of what person?	SE
+330_2	which network aired it?	FT
+330_3	what's the name of it's director?	FT
+330_4	it was about which war?	FT
+330_5	which actor played Hawkeye?	SE
+331_1	Name the songwriter of Something Just Like This.	SE
+331_2	Who performed the song?	FT
+331_3	Did they create other songs by 2018?	PT
+331_4	Album of the song?	FT
+331_5	release date album?	PT
+332_1	From which country is the band Queen ?	SE
+332_2	Who influenced the band ?	FT
+332_3	number of recieved awards ?	FT
+332_4	Place where the band formed?	FT
+333_1	To which club did CR7 move in 2018?	SE
+333_2	Country of this club?	PT
+333_3	And was their national team a participant of the world cup in 2018?	PT
+333_4	Which national team won the world cup?	PT
+333_5	Neymar played in the winner's national league in 2018?	SE
+334_1	What is the name of the creator for The X-Files?	SE
+334_2	In what year did the show come out?	FT
+334_3	What network did the show run on?	FT
+334_4	The show was about what two main characters?	FT
+334_5	What two actors portrayed those characters?	FT
+335_1	Who is the author of the book Inferno?	SE
+335_2	When was it published?	FT
+335_3	And what book was it followed by?	FT
+335_4	What is the authors date of birth ?	FT
+335_5	What is his place of birth?	PT
+337_1	Who wrote the novel Twilight?	SE
+337_2	When was it published?	FT
+337_3	Who's the human girl character in the book?	FT
+337_4	What character did she fall in love with?	PT
+337_5	What was he?	PT
+338_1	What is the name of Morty's grandpa in the Rick and Morty series?	SE
+338_2	As what does his grandfather work?	FT
+338_3	Is the series meant for adults or children?	FT
+338_4	Does it have violent content?	FT
+338_5	What's the american label for movies that are admitted for all age groups?	SE
+339_1	In what country is Major League Soccer located?	SE
+339_2	How many teams are there?	FT
+339_3	Do all the teams come from the US?	FT
+339_4	From what other countries are there teams?	FT
+339_5	How many are from that country?	PT
+340_1	How many seasons of Friends were there?	SE
+340_2	Who was the producer?	FT
+340_3	Who was the distributor?	FT
+340_4	What was the theme song for the show?	FT
+340_5	Where did Jennifer Aniston and David Schwimmer both show up?	FT
+341_1	Who is the author of the book To kill a Mockingbird?	SE
+341_2	the novel's Pulitzer prize winning year?	FT
+341_3	film name based on the book?	FT
+341_4	who directed the movie?	FT
+343_1	What was Stufjan Steven's first full length album?	SE
+343_2	Under which label was this album released?	FT
+343_3	When was he born?	FT
+343_4	What type of music does he write?	FT
+343_5	What college did he attend?	FT
+344_1	What country is the band Led Zeppelin from?	SE
+344_2	How many band members did they originally have?	FT
+344_3	What was the drummer's name?	FT
+344_4	What is their first album titled?	FT
+344_5	Who was the band's lead singer?	FT
+345_1	How many albums did Eminem release before the year 2000?	SE
+345_2	Which one was produced by Dr Dre?	FT
+345_3	What city was he born in?	FT
+345_4	Does it share a border with Los Angeles?	PT
+345_5	Which of those two is older?	PT
+346_1	What is the official abbreviation of the league name of Major League Soccer?	SE
+346_2	What countries participate in MLS?	SE
+346_3	What year was Major League Soccer created?	SE
+346_4	Who won league's first championship?	FT
+346_5	The first MLS championship game was at what venue?	SE
+347_1	Who authored the book Jaws?	SE
+347_2	When was it written?	FT
+347_3	Who published it?	FT
+347_4	It's in what genre?	FT
+347_5	Did it turn into a film?	FT
+348_1	Who is the voice of Buzz Lightyear in Toy Story?	SE
+348_2	what about Sheriff Woody?	FT
+348_3	who was Buzz named after?	FT
+349_1	What is the country of origin of the band Mumford and Sons?	SE
+349_2	And when were they founded?	FT
+350_1	What English Premier League soccer team did David Beckham play for in 2002?	SE
+350_2	what's his wife's name?	FT
+350_3	what award did he get in 2012?	FT
+350_4	where's he from?	FT
+351_1	What year was Ender's Game published?	SE
+351_2	Who is the author?	FT
+351_3	What genre is it?	FT
+351_4	Is it part of a series?	FT
+351_5	The series consists of how many books?	PT
+352_1	From what country did Led Zeppelin originate?	SE
+352_2	How many band members did they originally have?	FT
+352_3	Who was the band's drummer?	FT
+352_4	What is their first album titled?	FT
+352_5	And what was their lead singer's name?	FT
+353_1	What amount of albums did Eminem release in the 20th century?	SE
+353_2	And Dr Dre was the producer of which of those?	FT
+353_3	What city was he born in?	FT
+353_4	Does it share a border with Los Angeles?	PT
+353_5	Which of those two is older?	PT
+354_1	Did Mesut Özil play in the 2018 World Cup?	SE
+354_2	Name of his football club in 2014?	FT
+354_3	Name of the previous club?	FT
+354_4	Did this player in Spain national team in 2018 wc?	FT
+355_1	Who are the creators of the Vampire diaries tv show?	SE
+355_2	Who was casted as the main role?	FT
+355_3	who is stefan salvatore?	FT
+355_4	Who plays Damon?	FT
+355_5	what characters does Nina Dobrev play?	FT
+356_1	What kind of sport is played in the movie The Blind Side ?	SE
+356_2	Which player is represented ?	FT
+356_3	Who is the director of the movie ?	FT
+356_4	Where does the idea come from ?	FT
+356_5	Is it a book ?	FT
+359_1	Was Crazy Rich Asians released in 2017?	SE
+359_2	Who directed it?	FT
+359_3	Who was the screenwriter for the movie?	FT
+359_4	What is the MPAA film rating?	FT
+359_5	Where is the narrative location set?	FT
+360_1	In what year was the book The Hobbit published?	SE
+360_2	The author published more than one book?	FT
+362_1	When was The Wizard of Oz first released in theaters?	SE
+362_2	Which actress played Dorothy Gale in that movie?	FT
+362_3	And who wrote the book it was based on?	FT
+362_4	And what's the name of the song Dorothy sings?	FT
+362_5	And who wrote the song?	PT
+363_1	What's the name of the league that Manchester United is a member of?	SE
+363_2	where do they play their home games?	FT
+363_3	who was the coach in 2017?	FT
+363_4	what song do their fans sing?	FT
+363_5	when was their first FA cup finals?	FT
+365_1	Who is the author of The Shining?	SE
+365_2	Does it have sequel?	FT
+365_3	The shining movie adaptation?	FT
+365_4	Any TV Series from the book?	FT
+366_1	When did The Carpenters sign with A&M Records?	SE
+366_2	What was their first hit?	FT
+366_3	When did Karen die?	FT
+366_4	What disorder did Karen have?	PT
+366_5	and how did she die?	PT
+367_1	The Wall was an album made by what band?	SE
+367_2	the style of music was?	FT
+367_3	who made the cover art?	FT
+367_4	who was it produced by?	FT
+367_5	who was the American record label?	FT
+368_1	What kind of show is Yellowstone?	SE
+368_2	Who plays John Dutton?	FT
+368_3	Who's the director?	FT
+368_4	What channel is the television show on?	FT
+368_5	Where is the show location?	FT
+369_1	Which network was the tv series Mash on?	SE
+369_2	What is the name of the actress who played the head nurse?	FT
+369_3	What was the name of the opening music?	FT
+369_4	What was the first showing of Mash?	FT
+369_5	What was Alan Alda character's name?	FT
+370_1	Tony Stark was played by what actor in The Avengers movie?	SE
+370_2	Hulk was played by what actor?	FT
+370_3	what was the director's name?	FT
+370_4	was he also the screenwriter?	PT
+370_5	it was produced by which company?	FT
+371_1	What was Elvis Presley given name?	SE
+371_2	What is Elvis Presley birthday?	SE
+371_3	Where did Elvis Presley live?	SE
+371_4	What branch of the military was Elvis in?	FT
+371_5	Jailhouse rock was released what year?	SE
+372_1	What is the name of the league David Beckham played first?	SE
+372_2	What was his player position?	FT
+372_3	when did he get into the football Hall of Fame?	FT
+372_4	When did he receive PFA Young Player of the Year?	FT
+372_5	What's the wifes name?	FT
+373_1	where the administration of Dynamo Dresden sits?	SE
+373_2	and when was it launched?	FT
+373_3	was the clud a holder of UEFA cup?	FT
+373_4	what about Indoor-Regio-Cup?	FT
+373_5	In which year then?	PT
+374_1	Was Kylian Mbappé a participant of the FIFA World Cup in 2018?	SE
+374_2	And what was his sports number there?	FT
+374_3	And in which country was the FIFA World Cup?	FT
+374_4	What about the FIFA World Cup in 2022?	PT
+374_5	And how many participants will there be?	PT
+375_1	Who came up with the idea for the TV show Breaking Bad?	SE
+375_2	Did he recieve any award's for that show?	FT
+375_3	What other show's has he worked on since Breaking Bad ended?	FT
+375_4	What year did that show's first episode air?	FT
+375_5	Did that show win any awards in 2019?	FT
+376_1	Who is the lead singer of Radiohead?	SE
+376_2	And who's the drummer?	FT
+376_3	When was he born?	PT
+376_4	And what was the name of their first major record?	FT
+376_5	How many songs are on it?	PT
+377_1	Where is the foundation location of the band Die Toten Hosen ?	SE
+377_2	In which country is the city located ?	FT
+377_3	In which year was the inception of the band ?	FT
+377_4	Are they playing punk rock ?	FT
+377_5	Is this genre part of the genres of the band Die Ärzte?	PT
+378_1	What is the name of the person who directed the Avatar movie?	SE
+378_2	What year did it come out?	FT
+378_3	Where did the movie take place?	FT
+378_4	Who did the music for the movie?	FT
+378_5	What two main characters did the movie take place around?	FT
+379_1	Who directed the 2018 film Deadpool 2?	SE
+379_2	And is it part of the X-Men series?	FT
+379_3	Is it considered part of the comedy genre?	FT
+379_4	Was Ryan Reynolds one of the screenwriters?	FT
+379_5	Did it cost under fifty thousand dollars to make?	FT
+380_1	Who performs Freddie Mercury in Bohemian Rhapsody?	SE
+380_2	What is his occupation?	FT
+380_3	Who produced the film?	FT
+380_4	And who edited the movie ?	FT
+382_1	Which famous author wrote the fantasy book series Harry Potter?	SE
+382_2	Which book was the first one written?	FT
+382_3	What novel was the final one?	FT
+382_4	Which new student joined Harry Potter in school after an incident?	SE
+382_5	The series consists of which amount of books?	FT
+383_1	Who wrote the book Great Expectations?	SE
+383_2	Was it written in 1861?	FT
+383_3	Who published it?	FT
+383_4	What's the genre of the book?	FT
+383_5	What was the main setting?	FT
+384_1	What team does Cristiano Ronaldo play for in 2019?	SE
+384_2	What country does that club represent?	FT
+384_3	What year was he born?	FT
+384_4	What position does he play?	FT
+384_5	What number does he wear?	FT
+385_1	What league was David Beckham in first?	SE
+385_2	when did he get into the football Hall of Fame?	FT
+385_3	When did he receive PFA Young Player of the Year?	FT
+385_4	What's the wifes name?	FT
+387_1	What is the home venue for Houston Dynamo?	SE
+387_2	And it's grand opening day?	FT
+387_3	What league do they play for?	FT
+387_4	Who coaches the team in 2018?	FT
+387_5	And the coach's country?	PT
+389_1	Which author wrote the novel 1Q84?	SE
+389_2	the country that the author is from?	FT
+389_3	he won the World Fantasy Award for?	FT
+389_4	did the author win the Franz Kafka Prize?	FT
+390_1	What's the coach's name for the US National Team?	SE
+390_2	He became head coach when?	FT
+390_3	When did the team start?	FT
+390_4	Did they ever when a world cup championship?	FT
+390_5	How many world cup has the team been in?	FT
+391_1	In what country does Sevilla FC play?	SE
+391_2	When was this club created?	FT
+391_3	Where is the headquarters of this club?	FT
+391_4	Have they ever won a Champions Cup?	FT
+391_5	Did they ever win La Liga?	FT
+392_1	Did the Los Angeles FC begin in 2008?	SE
+392_2	What sport does this team play?	FT
+392_3	What is their official website?	FT
+392_4	What is their home stadium called?	FT
+392_5	Who is the head coach of the team in 2018?	FT
+393_1	Who directed the 2018 film Deadpool 2?	SE
+393_2	And is it part of the X-Men series?	FT
+393_3	Is it considered part of the comedy genre?	FT
+393_4	Did Ryan Reynolds work as a screenwriter for the film?	FT
+393_5	Did it cost under fifty thousand dollars to make?	FT
+394_1	In what year did the television show Lost premiere?	SE
+394_2	Which network was this show on?	FT
+394_3	What was the final season of this show?	FT
+394_4	What composer did the music for this show?	FT
+394_5	What's the made up band that was part of this show?	FT
+395_1	Who created The Orville?	SE
+395_2	What network is it on?	FT
+395_3	What's the runtime of an episode?	FT
+395_4	What was the airdate of the first episode?	FT
+395_5	What's the name of the actress who is the Xelayan security chief?	FT
